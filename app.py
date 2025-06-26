@@ -36,6 +36,10 @@ def preprocess_and_train(csv_path):
 
 model = preprocess_and_train('traffic_data.csv')
 
+@app.route('/')
+def home():
+    return render_template('index.html')
+
 @app.route('/predict', methods=['POST'])
 def predict():
     if request.content_type != 'application/json':
