@@ -50,7 +50,7 @@ def predict_traffic_volume(model, temperature, day_of_week, location, time_of_da
     })
     return model.predict(new_data)[0]
 
-data_path = 'data/traffic_data.csv'  # Update this with the correct path
+data_path = 'J:/Desktop/New folder/traffic-volume-prediction/data/traffic_data.csv'  # Update this with the correct path
 model_pipeline = preprocess_and_train(data_path)
 
 @app.route('/')
