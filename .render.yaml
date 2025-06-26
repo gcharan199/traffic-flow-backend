@@ -2,7 +2,7 @@ services:
   - type: web
     name: traffic-volume-api
     env: python
-    buildCommand: ""
+    buildCommand: pip install --upgrade pip setuptools wheel && pip install -r requirements.txt
     startCommand: gunicorn app:app
     envVars:
       - key: FLASK_ENV
