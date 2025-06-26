@@ -5,3 +5,4 @@ gunicorn==21.2.0
 setuptools==67.7.2
 wheel==0.40.0
 numpy==1.24.3
+gunicorn==21.2.0
