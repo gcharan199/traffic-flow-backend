@@ -1,0 +1,2082 @@
+temperature,day_of_week,location,time_of_day,traffic_volume
+30,"Monday","Tarnaka","MORNING",4500 
+35,"Friday","Tarnaka","NIGHT",3000 
+33,"Tuesday","Jubilee Hills","NOON",2700 
+29,"Saturday","Jubilee Hills","EVENING",4500 
+38,"Wednesday","KPHB","MORNING",5500 
+34,"Sunday","KPHB","NIGHT",2800 
+32,"Thursday","Ameerpet","MORNING",4200 
+37,"Sunday","Ameerpet","EVENING",5200 
+31,"Monday","Kondapur","MORNING",4800 
+34,"Saturday","Kondapur","EVENING",6200 
+32,"Tuesday","Secunderabad","NOON",3800 
+36,"Friday","Secunderabad ","NIGHT",3800 
+34,"Wednesday","Mehdipatnam","EVENING",7800 
+37,"Saturday","Mehdipatnam","NIGHT",3000 
+39,"Monday","Charminar","EVENING",5500 
+35,"Friday","Charminar","NIGHT",2800 
+30,"Tuesday","Hitec city","MORNING",6200 
+35,"Saturday","Hitec city","EVENING",6500 
+29,"Wednesday","Begumpet","MORNING",5000 
+36,"Sunday","Begumpet","EVENING",5500 
+31,"Monday","Tarnaka","NOON",3200 
+32,"Monday","Tarnaka","EVENING",6000 
+33,"Monday","Tarnaka","NIGHT",2800 
+34,"Friday","Tarnaka","MORNING",4800 
+35,"Friday","Tarnaka","NOON",3500 
+30,"Friday","Tarnaka","EVENING",6200 
+31,"Tuesday","Jubilee Hills","MORNING",3800 
+32,"Tuesday","Jubilee Hills","EVENING",5200 
+33,"Tuesday","Jubilee Hills","NIGHT",2500 
+34,"Saturday","Jubilee Hills","MORNING",3200 
+35,"Saturday","Jubilee Hills","NOON",2500 
+30,"Saturday","Jubilee Hills","NIGHT",2200 
+31,"Wednesday","KPHB","NOON",3200 
+32,"Wednesday","KPHB","EVENING",6000 
+33,"Wednesday","KPHB","NIGHT",2800 
+34,"Sunday","KPHB","MORNING",4800 
+35,"Sunday","KPHB","NOON",3500 
+30,"Sunday","KPHB","EVENING",6200 
+31,"Wednesday","Ameerpet","NOON",3000 
+32,"Wednesday","Ameerpet","EVENING",6500 
+33,"Wednesday","Ameerpet","NIGHT",2700 
+34,"Sunday","Ameerpet","MORNING",3500 
+35,"Sunday","Ameerpet","NOON",2800 
+30,"Sunday","Ameerpet","NIGHT",2300 
+31,"Monday","Kondapur","NOON",3400 
+32,"Monday","Kondapur","EVENING",6800 
+33,"Monday","Kondapur","NIGHT",3000 
+34,"Saturday","Kondapur","MORNING",4000 
+35,"Saturday","Kondapur","NOON",3200 
+30,"Saturday","Kondapur","NIGHT",2800 
+31,"Tuesday","Secunderabad","MORNING",5200 
+32,"Tuesday","Secunderabad","EVENING",7300 
+33,"Tuesday","Secunderabad","NIGHT",3400 
+34,"Friday","Secunderabad","MORNING",5500 
+35,"Friday","Secunderabad","NOON",4000 
+30,"Friday","Secunderabad","EVENING",7500 
+31,"Wednesday","Mehdipatnam","MORNING",5700 
+32,"Wednesday","Mehdipatnam","NOON",4200 
+33,"Wednesday","Mehdipatnam","NIGHT",3500 
+34,"Saturday","Mehdipatnam","MORNING",4500 
+35,"Saturday","Mehdipatnam","NOON",3500 
+30,"Saturday","Mehdipatnam","EVENING",6500 
+31,"Monday","Charminar","MORNING",3800 
+32,"Monday","Charminar","NOON",2900 
+33,"Monday","Charminar","NIGHT",2600 
+34,"Friday","Charminar","MORNING",4000 
+35,"Friday","Charminar","NOON",3100 
+30,"Friday","Charminar","EVENING",5700 
+31,"Tuesday","Hitec City","NOON",4500 
+32,"Tuesday","Hitec City","EVENING",8000 
+33,"Tuesday","Hitec City","NIGHT",3500 
+34,"Saturday","Hitec City","MORNING",4800 
+35,"Saturday","Hitec City","NOON",3600 
+30,"Saturday","Hitec City","NIGHT",6000 
+31,"Wednesday","Begumpet","NOON",3700 
+32,"Wednesday","Begumpet","EVENING",5500 
+33,"Wednesday","Begumpet","NIGHT",2600 
+34,"Sunday","Begumpet","MORNING",3800 
+35,"Sunday","Begumpet","NOON",3500 
+30,"Sunday","Begumpet","NIGHT",4500 
+42,"Thursday","Mehdipatnam","NIGHT",6816
+25,"Wednesday","Mehdipatnam","EVENING",1915
+24,"Monday","Secunderabad","MORNING",2139
+35,"Tuesday","Mehdipatnam","AFTERNOON",1834
+42,"Tuesday","Mehdipatnam","EVENING",2667
+36,"Tuesday","Begumpet","AFTERNOON",2085
+35,"Wednesday","Tarnaka","EVENING",2649
+25,"Monday","Tarnaka","NIGHT",2506
+28,"Friday","Secunderabad","EVENING",1971
+38,"Thursday","Mehdipatnam","EVENING",2149
+38,"Monday","Begumpet","MORNING",2640
+43,"Saturday","Tarnaka","MORNING",1931
+24,"Friday","Charminar","MORNING",2199
+26,"Tuesday","Tarnaka","NIGHT",1950
+29,"Friday","Tarnaka","MORNING",2237
+25,"Tuesday","Charminar","AFTERNOON",2866
+24,"Friday","Mehdipatnam","MORNING",2436
+34,"Sunday","Mehdipatnam","NIGHT",2045
+42,"Thursday","Charminar","AFTERNOON",1856
+25,"Sunday","Charminar","AFTERNOON",1876
+39,"Friday","Charminar","AFTERNOON",1891
+34,"Friday","Mehdipatnam","MORNING",2214
+44,"Saturday","Begumpet","NIGHT",2483
+44,"Saturday","Begumpet","AFTERNOON",2800
+27,"Friday","Mehdipatnam","EVENING",2239
+38,"Sunday","Secunderabad","NIGHT",2782
+38,"Tuesday","Begumpet","AFTERNOON",2401
+23,"Saturday","Begumpet","NIGHT",2504
+28,"Sunday","Tarnaka","NIGHT",2333
+27,"Thursday","Tarnaka","NIGHT",2515
+31,"Friday","Secunderabad","EVENING",2170
+40,"Monday","Charminar","NIGHT",2318
+36,"Monday","Secunderabad","NIGHT",2846
+44,"Monday","Mehdipatnam","MORNING",2054
+30,"Tuesday","Secunderabad","MORNING",2713
+43,"Monday","Mehdipatnam","MORNING",2424
+36,"Sunday","Begumpet","NIGHT",1848
+40,"Sunday","Secunderabad","MORNING",2429
+39,"Tuesday","Begumpet","EVENING",2496
+45,"Monday","Mehdipatnam","MORNING",2129
+41,"Friday","Mehdipatnam","NIGHT",2004
+27,"Saturday","Tarnaka","EVENING",2653
+37,"Monday","Begumpet","EVENING",2923
+28,"Friday","Tarnaka","AFTERNOON",2721
+37,"Monday","Tarnaka","NIGHT",2476
+30,"Thursday","Tarnaka","EVENING",2329
+40,"Friday","Begumpet","MORNING",2977
+26,"Wednesday","Secunderabad","EVENING",2000
+44,"Thursday","Mehdipatnam","MORNING",2468
+29,"Tuesday","Charminar","AFTERNOON",1897
+42,"Thursday","Mehdipatnam","MORNING",2943
+39,"Wednesday","Begumpet","NIGHT",2258
+24,"Friday","Begumpet","MORNING",2820
+25,"Friday","Tarnaka","EVENING",1978
+38,"Sunday","Tarnaka","MORNING",2289
+42,"Friday","Mehdipatnam","EVENING",2898
+43,"Sunday","Secunderabad","AFTERNOON",2549
+28,"Monday","Secunderabad","NIGHT",2003
+27,"Wednesday","Tarnaka","AFTERNOON",2053
+43,"Thursday","Begumpet","EVENING",2696
+33,"Thursday","Begumpet","MORNING",2471
+45,"Thursday","Secunderabad","EVENING",2986
+29,"Friday","Tarnaka","EVENING",2584
+27,"Monday","Charminar","AFTERNOON",1996
+37,"Tuesday","Mehdipatnam","NIGHT",2374
+42,"Saturday","Secunderabad","NIGHT",1826
+23,"Monday","Begumpet","AFTERNOON",1925
+36,"Saturday","Tarnaka","MORNING",1982
+28,"Thursday","Charminar","EVENING",1976
+32,"Thursday","Secunderabad","MORNING",2410
+35,"Friday","Mehdipatnam","MORNING",2928
+28,"Tuesday","Charminar","MORNING",2287
+24,"Thursday","Charminar","NIGHT",1914
+27,"Friday","Charminar","AFTERNOON",2021
+32,"Sunday","Begumpet","AFTERNOON",2269
+42,"Thursday","Secunderabad","AFTERNOON",2804
+27,"Saturday","Begumpet","NIGHT",2922
+31,"Tuesday","Mehdipatnam","EVENING",2816
+42,"Monday","Mehdipatnam","EVENING",2771
+35,"Tuesday","Charminar","NIGHT",1933
+44,"Thursday","Begumpet","MORNING",2888
+34,"Thursday","Begumpet","EVENING",2787
+34,"Tuesday","Begumpet","MORNING",2713
+37,"Wednesday","Begumpet","MORNING",2500
+29,"Wednesday","Mehdipatnam","AFTERNOON",2135
+36,"Friday","Mehdipatnam","EVENING",2826
+28,"Monday","Mehdipatnam","NIGHT",1944
+26,"Tuesday","Tarnaka","MORNING",2800
+27,"Sunday","Secunderabad","NIGHT",2607
+28,"Tuesday","Mehdipatnam","EVENING",1862
+26,"Tuesday","Charminar","NIGHT",2262
+45,"Friday","Tarnaka","NIGHT",1811
+32,"Thursday","Mehdipatnam","EVENING",2635
+23,"Friday","Tarnaka","NIGHT",1948
+38,"Saturday","Secunderabad","AFTERNOON",1880
+37,"Sunday","Tarnaka","AFTERNOON",1884
+30,"Friday","Charminar","AFTERNOON",2391
+34,"Saturday","Begumpet","EVENING",2713
+28,"Wednesday","Tarnaka","MORNING",1803
+31,"Wednesday","Charminar","MORNING",1818
+43,"Wednesday","Charminar","AFTERNOON",2630
+43,"Friday","Charminar","MORNING",2044
+26,"Tuesday","Mehdipatnam","AFTERNOON",1844
+31,"Thursday","Charminar","AFTERNOON",2463
+41,"Saturday","Secunderabad","AFTERNOON",2386
+23,"Thursday","Secunderabad","NIGHT",2544
+27,"Wednesday","Tarnaka","EVENING",2346
+38,"Friday","Charminar","AFTERNOON",2369
+26,"Monday","Secunderabad","MORNING",2155
+43,"Saturday","Mehdipatnam","EVENING",2285
+42,"Sunday","Mehdipatnam","NIGHT",2327
+37,"Friday","Secunderabad","EVENING",2941
+28,"Saturday","Mehdipatnam","NIGHT",2647
+30,"Thursday","Tarnaka","NIGHT",2633
+44,"Thursday","Mehdipatnam","AFTERNOON",2285
+36,"Monday","Charminar","MORNING",2337
+25,"Tuesday","Mehdipatnam","EVENING",2072
+39,"Thursday","Tarnaka","AFTERNOON",2484
+28,"Monday","Secunderabad","MORNING",2806
+39,"Saturday","Begumpet","NIGHT",2580
+38,"Sunday","Mehdipatnam","NIGHT",1919
+29,"Sunday","Mehdipatnam","EVENING",1850
+32,"Thursday","Secunderabad","EVENING",2898
+39,"Tuesday","Charminar","NIGHT",1820
+23,"Friday","Begumpet","AFTERNOON",2893
+40,"Thursday","Tarnaka","EVENING",2397
+37,"Saturday","Secunderabad","MORNING",2290
+45,"Wednesday","Charminar","NIGHT",2137
+24,"Friday","Begumpet","EVENING",2596
+25,"Sunday","Begumpet","EVENING",2833
+43,"Wednesday","Mehdipatnam","MORNING",1957
+38,"Thursday","Mehdipatnam","MORNING",2190
+45,"Friday","Tarnaka","NIGHT",2073
+28,"Sunday","Begumpet","NIGHT",2122
+32,"Tuesday","Charminar","AFTERNOON",2759
+32,"Sunday","Mehdipatnam","MORNING",2286
+23,"Friday","Charminar","EVENING",2996
+24,"Sunday","Charminar","MORNING",2727
+28,"Tuesday","Mehdipatnam","EVENING",1929
+44,"Saturday","Tarnaka","EVENING",2625
+23,"Sunday","Begumpet","EVENING",2305
+38,"Tuesday","Begumpet","MORNING",2913
+43,"Tuesday","Begumpet","AFTERNOON",2299
+38,"Thursday","Mehdipatnam","AFTERNOON",2574
+42,"Wednesday","Begumpet","NIGHT",1813
+28,"Sunday","Tarnaka","EVENING",2465
+23,"Sunday","Tarnaka","NIGHT",1870
+39,"Saturday","Charminar","NIGHT",2573
+41,"Saturday","Secunderabad","MORNING",2898
+38,"Wednesday","Begumpet","NIGHT",1817
+39,"Thursday","Tarnaka","EVENING",2352
+39,"Monday","Mehdipatnam","NIGHT",1838
+25,"Thursday","Mehdipatnam","NIGHT",1962
+45,"Wednesday","Secunderabad","EVENING",2801
+37,"Wednesday","Secunderabad","EVENING",2378
+37,"Wednesday","Tarnaka","NIGHT",2424
+33,"Sunday","Mehdipatnam","AFTERNOON",2505
+23,"Friday","Mehdipatnam","EVENING",2446
+38,"Wednesday","Begumpet","AFTERNOON",2867
+39,"Wednesday","Begumpet","AFTERNOON",2453
+39,"Wednesday","Begumpet","AFTERNOON",2825
+32,"Saturday","Begumpet","EVENING",2642
+43,"Tuesday","Secunderabad","NIGHT",2491
+29,"Tuesday","Secunderabad","MORNING",2009
+45,"Monday","Charminar","MORNING",2741
+29,"Friday","Begumpet","MORNING",1906
+36,"Monday","Begumpet","NIGHT",2886
+35,"Friday","Tarnaka","MORNING",2457
+33,"Tuesday","Charminar","AFTERNOON",2713
+36,"Sunday","Tarnaka","EVENING",2471
+37,"Saturday","Begumpet","MORNING",2875
+41,"Thursday","Mehdipatnam","NIGHT",2868
+28,"Monday","Begumpet","NIGHT",2650
+30,"Tuesday","Tarnaka","MORNING",2629
+23,"Saturday","Begumpet","MORNING",2208
+35,"Monday","Mehdipatnam","AFTERNOON",2233
+28,"Monday","Mehdipatnam","MORNING",2507
+38,"Sunday","Begumpet","EVENING",2985
+37,"Friday","Mehdipatnam","EVENING",2609
+34,"Thursday","Begumpet","MORNING",2786
+38,"Tuesday","Tarnaka","NIGHT",2662
+31,"Saturday","Begumpet","EVENING",2430
+31,"Friday","Tarnaka","AFTERNOON",2496
+34,"Monday","Tarnaka","AFTERNOON",1980
+39,"Sunday","Tarnaka","MORNING",2065
+30,"Sunday","Begumpet","MORNING",2628
+38,"Wednesday","Tarnaka","MORNING",2783
+34,"Friday","Begumpet","MORNING",2050
+38,"Monday","Begumpet","NIGHT",2165
+44,"Wednesday","Tarnaka","AFTERNOON",1941
+42,"Sunday","Begumpet","NIGHT",1864
+31,"Thursday","Secunderabad","EVENING",2748
+33,"Tuesday","Secunderabad","AFTERNOON",2157
+30,"Saturday","Secunderabad","MORNING",2007
+38,"Sunday","Secunderabad","MORNING",2714
+37,"Friday","Tarnaka","NIGHT",2356
+26,"Wednesday","Charminar","EVENING",2471
+32,"Friday","Mehdipatnam","EVENING",2886
+45,"Thursday","Mehdipatnam","NIGHT",1974
+42,"Friday","Mehdipatnam","AFTERNOON",2297
+44,"Saturday","Tarnaka","NIGHT",2206
+37,"Wednesday","Charminar","AFTERNOON",2289
+40,"Monday","Tarnaka","EVENING",1823
+29,"Sunday","Secunderabad","AFTERNOON",2939
+42,"Monday","Tarnaka","NIGHT",1983
+45,"Thursday","Begumpet","EVENING",2977
+27,"Monday","Secunderabad","EVENING",2861
+30,"Sunday","Tarnaka","AFTERNOON",2644
+45,"Wednesday","Tarnaka","EVENING",2280
+32,"Saturday","Tarnaka","NIGHT",2170
+32,"Thursday","Secunderabad","MORNING",2515
+34,"Saturday","Secunderabad","EVENING",2332
+24,"Sunday","Begumpet","AFTERNOON",2826
+26,"Thursday","Mehdipatnam","MORNING",2049
+40,"Sunday","Begumpet","AFTERNOON",1904
+44,"Monday","Charminar","NIGHT",2860
+29,"Thursday","Mehdipatnam","NIGHT",2538
+44,"Saturday","Mehdipatnam","NIGHT",1976
+37,"Tuesday","Secunderabad","AFTERNOON",2614
+37,"Wednesday","Begumpet","AFTERNOON",2079
+30,"Wednesday","Charminar","EVENING",2291
+29,"Friday","Begumpet","NIGHT",2332
+29,"Friday","Mehdipatnam","EVENING",2413
+26,"Monday","Begumpet","NIGHT",2796
+23,"Tuesday","Charminar","AFTERNOON",2979
+39,"Wednesday","Secunderabad","NIGHT",1930
+38,"Friday","Charminar","MORNING",2882
+23,"Sunday","Secunderabad","NIGHT",1980
+44,"Tuesday","Charminar","MORNING",2573
+41,"Thursday","Secunderabad","AFTERNOON",1977
+27,"Sunday","Begumpet","EVENING",1970
+35,"Saturday","Mehdipatnam","EVENING",2222
+27,"Thursday","Secunderabad","NIGHT",2299
+44,"Saturday","Mehdipatnam","EVENING",2443
+43,"Friday","Secunderabad","AFTERNOON",2727
+39,"Thursday","Secunderabad","MORNING",2571
+44,"Tuesday","Secunderabad","NIGHT",2198
+36,"Friday","Tarnaka","AFTERNOON",1973
+26,"Sunday","Tarnaka","AFTERNOON",2505
+43,"Friday","Mehdipatnam","EVENING",1979
+30,"Thursday","Secunderabad","EVENING",1964
+33,"Saturday","Tarnaka","EVENING",2843
+31,"Friday","Tarnaka","NIGHT",2106
+37,"Tuesday","Secunderabad","NIGHT",2243
+36,"Wednesday","Secunderabad","EVENING",2784
+23,"Saturday","Secunderabad","MORNING",2494
+42,"Tuesday","Secunderabad","MORNING",2341
+41,"Wednesday","Charminar","MORNING",2766
+29,"Wednesday","Charminar","EVENING",2945
+43,"Saturday","Secunderabad","NIGHT",2844
+43,"Friday","Tarnaka","MORNING",2839
+29,"Thursday","Mehdipatnam","MORNING",2362
+32,"Saturday","Mehdipatnam","AFTERNOON",2369
+40,"Saturday","Begumpet","NIGHT",2054
+34,"Tuesday","Charminar","NIGHT",2023
+25,"Monday","Begumpet","MORNING",2506
+45,"Tuesday","Tarnaka","AFTERNOON",2348
+34,"Thursday","Charminar","MORNING",2926
+40,"Monday","Mehdipatnam","NIGHT",2712
+45,"Saturday","Begumpet","MORNING",2812
+45,"Friday","Secunderabad","EVENING",2439
+26,"Wednesday","Begumpet","EVENING",2965
+30,"Saturday","Charminar","NIGHT",2981
+42,"Monday","Begumpet","EVENING",2740
+24,"Sunday","Begumpet","EVENING",2273
+23,"Monday","Begumpet","NIGHT",2766
+24,"Wednesday","Begumpet","NIGHT",2157
+45,"Wednesday","Mehdipatnam","AFTERNOON",1805
+26,"Sunday","Charminar","AFTERNOON",2787
+38,"Saturday","Begumpet","EVENING",2995
+38,"Saturday","Secunderabad","MORNING",2325
+32,"Wednesday","Begumpet","NIGHT",2085
+25,"Saturday","Secunderabad","MORNING",2141
+40,"Friday","Secunderabad","AFTERNOON",2438
+27,"Tuesday","Secunderabad","NIGHT",2971
+45,"Tuesday","Secunderabad","NIGHT",2843
+45,"Sunday","Charminar","NIGHT",2450
+43,"Sunday","Mehdipatnam","AFTERNOON",2614
+41,"Thursday","Tarnaka","NIGHT",2201
+29,"Tuesday","Secunderabad","MORNING",2827
+33,"Saturday","Charminar","MORNING",2583
+44,"Tuesday","Mehdipatnam","EVENING",2148
+26,"Wednesday","Charminar","EVENING",1919
+26,"Sunday","Mehdipatnam","MORNING",2010
+38,"Wednesday","Mehdipatnam","AFTERNOON",2323
+39,"Sunday","Begumpet","MORNING",2635
+37,"Friday","Mehdipatnam","NIGHT",2504
+25,"Saturday","Charminar","AFTERNOON",2841
+25,"Friday","Mehdipatnam","NIGHT",1933
+35,"Friday","Begumpet","NIGHT",2576
+38,"Thursday","Charminar","NIGHT",2705
+38,"Sunday","Tarnaka","MORNING",2841
+35,"Thursday","Charminar","EVENING",2348
+24,"Tuesday","Secunderabad","NIGHT",2427
+43,"Thursday","Charminar","MORNING",2786
+38,"Sunday","Mehdipatnam","NIGHT",1842
+33,"Tuesday","Secunderabad","NIGHT",2577
+44,"Tuesday","Begumpet","EVENING",2666
+26,"Saturday","Tarnaka","NIGHT",2713
+44,"Tuesday","Mehdipatnam","EVENING",2629
+33,"Friday","Begumpet","MORNING",2275
+41,"Friday","Secunderabad","MORNING",2623
+30,"Sunday","Charminar","EVENING",2564
+36,"Friday","Begumpet","AFTERNOON",2620
+28,"Wednesday","Charminar","NIGHT",1809
+41,"Saturday","Secunderabad","EVENING",1944
+34,"Thursday","Mehdipatnam","NIGHT",2854
+23,"Sunday","Mehdipatnam","AFTERNOON",1949
+40,"Wednesday","Begumpet","MORNING",2909
+40,"Sunday","Mehdipatnam","MORNING",2939
+40,"Saturday","Charminar","EVENING",2604
+32,"Saturday","Tarnaka","EVENING",2515
+24,"Saturday","Charminar","AFTERNOON",2542
+28,"Wednesday","Secunderabad","NIGHT",1904
+37,"Thursday","Secunderabad","NIGHT",1918
+44,"Thursday","Secunderabad","EVENING",2742
+42,"Saturday","Secunderabad","AFTERNOON",2202
+32,"Saturday","Secunderabad","EVENING",2993
+24,"Thursday","Mehdipatnam","MORNING",2383
+34,"Friday","Mehdipatnam","EVENING",1825
+28,"Wednesday","Mehdipatnam","NIGHT",2839
+26,"Sunday","Charminar","AFTERNOON",2083
+31,"Friday","Begumpet","NIGHT",2688
+39,"Saturday","Tarnaka","AFTERNOON",2060
+41,"Monday","Secunderabad","MORNING",2883
+44,"Thursday","Secunderabad","MORNING",2986
+45,"Friday","Charminar","NIGHT",2767
+34,"Tuesday","Charminar","AFTERNOON",2216
+25,"Friday","Secunderabad","NIGHT",2190
+30,"Monday","Begumpet","MORNING",2320
+26,"Friday","Mehdipatnam","NIGHT",2559
+24,"Saturday","Charminar","AFTERNOON",2402
+26,"Wednesday","Tarnaka","NIGHT",2170
+43,"Saturday","Begumpet","NIGHT",2194
+26,"Saturday","Charminar","MORNING",2861
+37,"Friday","Begumpet","AFTERNOON",2757
+36,"Thursday","Begumpet","AFTERNOON",2547
+40,"Saturday","Begumpet","NIGHT",2232
+44,"Friday","Mehdipatnam","EVENING",2566
+24,"Wednesday","Begumpet","NIGHT",2623
+32,"Friday","Secunderabad","AFTERNOON",2458
+41,"Friday","Mehdipatnam","EVENING",2173
+36,"Sunday","Charminar","AFTERNOON",2677
+33,"Thursday","Begumpet","AFTERNOON",2234
+45,"Saturday","Secunderabad","EVENING",2599
+41,"Wednesday","Charminar","EVENING",2007
+35,"Saturday","Tarnaka","AFTERNOON",2711
+39,"Saturday","Mehdipatnam","AFTERNOON",1810
+24,"Friday","Begumpet","EVENING",2791
+29,"Sunday","Secunderabad","MORNING",2968
+30,"Sunday","Mehdipatnam","MORNING",2336
+35,"Monday","Charminar","AFTERNOON",1913
+31,"Wednesday","Begumpet","MORNING",2098
+44,"Tuesday","Tarnaka","AFTERNOON",2389
+42,"Wednesday","Tarnaka","AFTERNOON",2620
+43,"Sunday","Mehdipatnam","AFTERNOON",2372
+33,"Tuesday","Mehdipatnam","AFTERNOON",2285
+41,"Thursday","Begumpet","MORNING",2463
+29,"Monday","Secunderabad","EVENING",2188
+23,"Saturday","Tarnaka","EVENING",2564
+39,"Sunday","Charminar","NIGHT",2935
+31,"Saturday","Begumpet","NIGHT",2172
+45,"Friday","Mehdipatnam","NIGHT",2961
+45,"Monday","Mehdipatnam","MORNING",2840
+37,"Thursday","Tarnaka","NIGHT",2828
+25,"Monday","Mehdipatnam","AFTERNOON",2809
+25,"Sunday","Mehdipatnam","NIGHT",2412
+37,"Wednesday","Charminar","EVENING",2016
+28,"Thursday","Charminar","AFTERNOON",2093
+39,"Saturday","Mehdipatnam","NIGHT",2097
+40,"Saturday","Mehdipatnam","EVENING",2518
+23,"Monday","Tarnaka","EVENING",1850
+24,"Monday","Secunderabad","EVENING",2105
+24,"Sunday","Mehdipatnam","EVENING",2826
+29,"Friday","Tarnaka","NIGHT",2693
+44,"Saturday","Mehdipatnam","AFTERNOON",2469
+30,"Monday","Mehdipatnam","EVENING",2983
+44,"Tuesday","Charminar","NIGHT",2730
+44,"Wednesday","Tarnaka","NIGHT",1868
+34,"Wednesday","Charminar","NIGHT",2077
+34,"Monday","Tarnaka","NIGHT",2011
+40,"Saturday","Tarnaka","AFTERNOON",2571
+27,"Sunday","Mehdipatnam","MORNING",2298
+35,"Sunday","Secunderabad","MORNING",1884
+34,"Sunday","Tarnaka","EVENING",2978
+34,"Wednesday","Charminar","AFTERNOON",2834
+38,"Wednesday","Tarnaka","NIGHT",2321
+23,"Monday","Secunderabad","MORNING",2134
+34,"Tuesday","Tarnaka","EVENING",2665
+32,"Monday","Secunderabad","MORNING",2962
+26,"Tuesday","Tarnaka","AFTERNOON",2334
+33,"Thursday","Mehdipatnam","NIGHT",2413
+25,"Friday","Tarnaka","EVENING",2401
+24,"Monday","Mehdipatnam","MORNING",2334
+33,"Sunday","Charminar","NIGHT",2459
+43,"Friday","Begumpet","AFTERNOON",2408
+37,"Monday","Secunderabad","EVENING",1933
+23,"Wednesday","Mehdipatnam","NIGHT",2387
+41,"Friday","Mehdipatnam","MORNING",1920
+32,"Friday","Secunderabad","NIGHT",2024
+44,"Friday","Mehdipatnam","AFTERNOON",2944
+29,"Friday","Secunderabad","AFTERNOON",2123
+30,"Friday","Mehdipatnam","NIGHT",2418
+44,"Monday","Begumpet","EVENING",2900
+31,"Saturday","Mehdipatnam","EVENING",2481
+32,"Friday","Begumpet","EVENING",1929
+27,"Friday","Begumpet","MORNING",2619
+24,"Tuesday","Charminar","AFTERNOON",2702
+39,"Wednesday","Mehdipatnam","EVENING",2102
+25,"Tuesday","Tarnaka","EVENING",2033
+33,"Friday","Mehdipatnam","MORNING",2894
+42,"Tuesday","Mehdipatnam","MORNING",1803
+44,"Thursday","Secunderabad","AFTERNOON",2975
+30,"Thursday","Charminar","NIGHT",2829
+30,"Sunday","Charminar","AFTERNOON",2045
+40,"Monday","Charminar","NIGHT",2289
+45,"Sunday","Charminar","AFTERNOON",2210
+28,"Friday","Charminar","AFTERNOON",2352
+45,"Thursday","Charminar","AFTERNOON",2873
+33,"Tuesday","Secunderabad","EVENING",2219
+26,"Saturday","Secunderabad","NIGHT",2319
+32,"Tuesday","Charminar","EVENING",2840
+44,"Sunday","Tarnaka","MORNING",2344
+45,"Monday","Secunderabad","NIGHT",2620
+42,"Sunday","Begumpet","MORNING",2153
+36,"Thursday","Mehdipatnam","EVENING",2558
+33,"Tuesday","Secunderabad","NIGHT",2796
+24,"Monday","Tarnaka","AFTERNOON",2491
+29,"Friday","Tarnaka","NIGHT",2490
+31,"Thursday","Secunderabad","AFTERNOON",2525
+40,"Sunday","Secunderabad","AFTERNOON",2252
+34,"Monday","Charminar","AFTERNOON",2038
+32,"Wednesday","Charminar","AFTERNOON",2620
+29,"Sunday","Secunderabad","MORNING",2758
+38,"Tuesday","Tarnaka","EVENING",1902
+37,"Saturday","Mehdipatnam","MORNING",1897
+37,"Sunday","Secunderabad","AFTERNOON",2579
+29,"Monday","Tarnaka","MORNING",2024
+35,"Thursday","Secunderabad","AFTERNOON",1815
+24,"Friday","Tarnaka","NIGHT",2105
+24,"Thursday","Tarnaka","AFTERNOON",1908
+37,"Tuesday","Mehdipatnam","AFTERNOON",1921
+40,"Friday","Tarnaka","NIGHT",2548
+35,"Sunday","Tarnaka","MORNING",2724
+34,"Sunday","Tarnaka","NIGHT",2014
+23,"Friday","Tarnaka","NIGHT",2444
+43,"Thursday","Secunderabad","MORNING",2497
+24,"Monday","Charminar","MORNING",1964
+24,"Thursday","Begumpet","AFTERNOON",2099
+43,"Thursday","Charminar","NIGHT",2609
+28,"Friday","Mehdipatnam","EVENING",2305
+25,"Tuesday","Charminar","AFTERNOON",2354
+31,"Wednesday","Charminar","MORNING",2521
+30,"Thursday","Secunderabad","MORNING",1946
+34,"Sunday","Mehdipatnam","AFTERNOON",2353
+26,"Saturday","Secunderabad","EVENING",2890
+39,"Wednesday","Charminar","EVENING",2992
+32,"Friday","Mehdipatnam","AFTERNOON",2390
+32,"Tuesday","Tarnaka","NIGHT",2242
+29,"Friday","Charminar","EVENING",2776
+34,"Friday","Secunderabad","EVENING",2624
+30,"Saturday","Begumpet","AFTERNOON",2279
+35,"Thursday","Begumpet","AFTERNOON",1803
+28,"Monday","Tarnaka","NIGHT",2991
+23,"Tuesday","Mehdipatnam","AFTERNOON",2565
+41,"Tuesday","Begumpet","MORNING",2128
+35,"Sunday","Begumpet","NIGHT",1971
+39,"Sunday","Secunderabad","EVENING",2254
+26,"Sunday","Mehdipatnam","MORNING",1975
+27,"Wednesday","Mehdipatnam","NIGHT",2144
+29,"Sunday","Mehdipatnam","AFTERNOON",2850
+39,"Saturday","Secunderabad","NIGHT",1925
+30,"Sunday","Begumpet","EVENING",2406
+32,"Monday","Charminar","MORNING",2324
+25,"Wednesday","Mehdipatnam","EVENING",2070
+37,"Tuesday","Mehdipatnam","NIGHT",2415
+36,"Thursday","Tarnaka","MORNING",2236
+32,"Thursday","Secunderabad","NIGHT",2772
+27,"Tuesday","Mehdipatnam","EVENING",2156
+33,"Monday","Mehdipatnam","NIGHT",2111
+44,"Monday","Secunderabad","NIGHT",2218
+42,"Tuesday","Tarnaka","AFTERNOON",2117
+40,"Wednesday","Charminar","MORNING",1867
+39,"Friday","Tarnaka","EVENING",2933
+29,"Saturday","Begumpet","NIGHT",2539
+28,"Monday","Mehdipatnam","EVENING",1956
+36,"Saturday","Begumpet","AFTERNOON",1892
+42,"Thursday","Begumpet","NIGHT",2110
+35,"Tuesday","Charminar","AFTERNOON",2050
+33,"Monday","Tarnaka","AFTERNOON",1937
+41,"Tuesday","Tarnaka","EVENING",2396
+35,"Monday","Begumpet","AFTERNOON",2976
+44,"Wednesday","Tarnaka","EVENING",2694
+37,"Friday","Secunderabad","AFTERNOON",2345
+38,"Tuesday","Charminar","AFTERNOON",2900
+34,"Wednesday","Secunderabad","EVENING",2003
+39,"Wednesday","Secunderabad","EVENING",2086
+40,"Wednesday","Tarnaka","EVENING",2082
+43,"Saturday","Secunderabad","NIGHT",2802
+30,"Saturday","Begumpet","MORNING",2210
+30,"Tuesday","Mehdipatnam","NIGHT",2870
+33,"Wednesday","Mehdipatnam","AFTERNOON",2084
+40,"Saturday","Secunderabad","AFTERNOON",2752
+23,"Sunday","Mehdipatnam","EVENING",2595
+38,"Tuesday","Secunderabad","AFTERNOON",1916
+23,"Sunday","Charminar","MORNING",2662
+33,"Thursday","Mehdipatnam","EVENING",2671
+38,"Saturday","Begumpet","AFTERNOON",2953
+41,"Wednesday","Charminar","NIGHT",2125
+33,"Tuesday","Secunderabad","MORNING",2884
+45,"Saturday","Charminar","EVENING",1940
+40,"Saturday","Begumpet","NIGHT",1997
+38,"Wednesday","Begumpet","AFTERNOON",2827
+29,"Monday","Tarnaka","NIGHT",2172
+28,"Monday","Secunderabad","AFTERNOON",2370
+34,"Wednesday","Charminar","NIGHT",2341
+29,"Sunday","Secunderabad","NIGHT",2108
+38,"Sunday","Mehdipatnam","MORNING",2410
+40,"Tuesday","Begumpet","MORNING",2211
+26,"Tuesday","Charminar","AFTERNOON",2118
+31,"Wednesday","Charminar","MORNING",1987
+44,"Saturday","Secunderabad","AFTERNOON",2490
+36,"Monday","Tarnaka","NIGHT",2027
+38,"Friday","Begumpet","NIGHT",2925
+38,"Wednesday","Secunderabad","MORNING",1960
+27,"Monday","Begumpet","AFTERNOON",2832
+45,"Friday","Charminar","NIGHT",2282
+28,"Sunday","Begumpet","NIGHT",2200
+38,"Tuesday","Mehdipatnam","EVENING",2743
+30,"Friday","Charminar","AFTERNOON",2300
+44,"Thursday","Secunderabad","EVENING",2450
+41,"Tuesday","Begumpet","EVENING",2055
+41,"Monday","Mehdipatnam","AFTERNOON",2719
+35,"Wednesday","Mehdipatnam","NIGHT",1972
+25,"Friday","Tarnaka","NIGHT",1979
+29,"Wednesday","Charminar","AFTERNOON",2760
+25,"Monday","Secunderabad","MORNING",2960
+23,"Sunday","Charminar","NIGHT",1973
+40,"Tuesday","Tarnaka","NIGHT",2915
+29,"Thursday","Tarnaka","EVENING",2738
+31,"Sunday","Charminar","AFTERNOON",2425
+31,"Monday","Mehdipatnam","AFTERNOON",2046
+27,"Wednesday","Begumpet","MORNING",2973
+28,"Friday","Charminar","NIGHT",2368
+33,"Thursday","Secunderabad","NIGHT",2758
+30,"Thursday","Begumpet","AFTERNOON",2006
+32,"Wednesday","Secunderabad","MORNING",2659
+25,"Wednesday","Mehdipatnam","AFTERNOON",2899
+41,"Saturday","Begumpet","EVENING",2787
+43,"Wednesday","Tarnaka","MORNING",2679
+43,"Tuesday","Mehdipatnam","NIGHT",2898
+38,"Sunday","Charminar","NIGHT",1962
+41,"Thursday","Tarnaka","MORNING",2713
+32,"Tuesday","Mehdipatnam","NIGHT",2095
+36,"Tuesday","Tarnaka","AFTERNOON",2644
+44,"Friday","Charminar","MORNING",2658
+23,"Friday","Secunderabad","NIGHT",1861
+25,"Thursday","Tarnaka","MORNING",2480
+43,"Monday","Tarnaka","NIGHT",2988
+34,"Sunday","Charminar","EVENING",1842
+31,"Saturday","Charminar","MORNING",2471
+38,"Sunday","Begumpet","MORNING",2744
+25,"Friday","Tarnaka","AFTERNOON",1892
+45,"Wednesday","Mehdipatnam","EVENING",1892
+35,"Saturday","Tarnaka","EVENING",1980
+26,"Saturday","Secunderabad","EVENING",2219
+41,"Tuesday","Tarnaka","MORNING",2906
+28,"Saturday","Charminar","MORNING",2190
+41,"Sunday","Charminar","AFTERNOON",1893
+26,"Friday","Begumpet","MORNING",2141
+36,"Sunday","Charminar","EVENING",1972
+44,"Wednesday","Begumpet","MORNING",2453
+45,"Thursday","Charminar","EVENING",2627
+42,"Thursday","Secunderabad","MORNING",2867
+37,"Monday","Charminar","MORNING",2373
+27,"Thursday","Begumpet","AFTERNOON",2960
+36,"Friday","Begumpet","MORNING",1947
+23,"Thursday","Charminar","NIGHT",2149
+24,"Saturday","Begumpet","NIGHT",2772
+45,"Tuesday","Begumpet","MORNING",2587
+30,"Sunday","Secunderabad","AFTERNOON",2729
+42,"Monday","Tarnaka","EVENING",2058
+26,"Monday","Charminar","MORNING",1852
+40,"Saturday","Begumpet","EVENING",2991
+41,"Saturday","Begumpet","AFTERNOON",1992
+37,"Monday","Begumpet","MORNING",2793
+40,"Saturday","Begumpet","MORNING",2666
+40,"Sunday","Secunderabad","AFTERNOON",2259
+25,"Thursday","Begumpet","NIGHT",2008
+41,"Friday","Begumpet","MORNING",2950
+35,"Monday","Begumpet","MORNING",2425
+26,"Monday","Begumpet","MORNING",2285
+30,"Friday","Begumpet","MORNING",2109
+44,"Friday","Mehdipatnam","EVENING",1966
+37,"Wednesday","Begumpet","MORNING",1984
+28,"Monday","Mehdipatnam","EVENING",2064
+44,"Tuesday","Begumpet","AFTERNOON",2598
+43,"Friday","Mehdipatnam","MORNING",2013
+28,"Saturday","Secunderabad","MORNING",2657
+30,"Monday","Begumpet","EVENING",2895
+37,"Monday","Begumpet","EVENING",2173
+38,"Monday","Mehdipatnam","EVENING",2014
+33,"Thursday","Begumpet","MORNING",2665
+26,"Saturday","Secunderabad","EVENING",2124
+37,"Saturday","Mehdipatnam","EVENING",2150
+40,"Thursday","Secunderabad","MORNING",2688
+24,"Thursday","Secunderabad","NIGHT",2193
+24,"Sunday","Charminar","MORNING",1900
+26,"Monday","Charminar","EVENING",2909
+30,"Thursday","Mehdipatnam","NIGHT",2935
+38,"Monday","Secunderabad","EVENING",2753
+30,"Friday","Begumpet","AFTERNOON",2423
+39,"Sunday","Tarnaka","EVENING",2735
+24,"Tuesday","Charminar","EVENING",2998
+41,"Saturday","Charminar","MORNING",2248
+38,"Thursday","Begumpet","NIGHT",2696
+33,"Wednesday","Charminar","NIGHT",2516
+31,"Friday","Secunderabad","NIGHT",2080
+32,"Thursday","Tarnaka","EVENING",2363
+44,"Friday","Charminar","MORNING",1970
+24,"Sunday","Secunderabad","AFTERNOON",1898
+32,"Sunday","Mehdipatnam","AFTERNOON",2176
+37,"Friday","Mehdipatnam","EVENING",2008
+41,"Tuesday","Tarnaka","NIGHT",2820
+28,"Tuesday","Tarnaka","EVENING",2445
+26,"Monday","Mehdipatnam","NIGHT",2558
+37,"Saturday","Mehdipatnam","NIGHT",2631
+38,"Monday","Begumpet","AFTERNOON",1991
+37,"Sunday","Begumpet","NIGHT",2184
+31,"Tuesday","Begumpet","MORNING",2977
+45,"Thursday","Begumpet","MORNING",2686
+38,"Friday","Begumpet","MORNING",1947
+29,"Sunday","Mehdipatnam","AFTERNOON",2740
+33,"Thursday","Begumpet","MORNING",2187
+44,"Friday","Tarnaka","EVENING",2231
+23,"Wednesday","Begumpet","MORNING",2051
+43,"Sunday","Secunderabad","MORNING",2422
+38,"Tuesday","Begumpet","EVENING",2054
+37,"Thursday","Secunderabad","AFTERNOON",2059
+31,"Wednesday","Secunderabad","MORNING",2044
+36,"Sunday","Begumpet","AFTERNOON",2129
+32,"Monday","Mehdipatnam","EVENING",2370
+27,"Friday","Secunderabad","MORNING",1803
+23,"Friday","Secunderabad","EVENING",1988
+40,"Saturday","Charminar","NIGHT",2009
+37,"Thursday","Charminar","MORNING",2077
+45,"Saturday","Tarnaka","EVENING",2973
+34,"Sunday","Begumpet","NIGHT",2426
+26,"Friday","Tarnaka","AFTERNOON",2686
+42,"Monday","Begumpet","EVENING",2581
+37,"Monday","Charminar","NIGHT",2327
+41,"Tuesday","Secunderabad","NIGHT",2832
+29,"Sunday","Secunderabad","AFTERNOON",2428
+30,"Sunday","Tarnaka","NIGHT",2456
+32,"Saturday","Secunderabad","MORNING",2177
+33,"Friday","Secunderabad","MORNING",1819
+44,"Thursday","Begumpet","MORNING",2448
+27,"Friday","Mehdipatnam","AFTERNOON",2795
+39,"Tuesday","Secunderabad","AFTERNOON",2565
+32,"Wednesday","Mehdipatnam","NIGHT",2369
+33,"Friday","Mehdipatnam","EVENING",2007
+32,"Friday","Secunderabad","MORNING",2753
+43,"Wednesday","Secunderabad","MORNING",2582
+34,"Friday","Tarnaka","EVENING",2928
+37,"Friday","Begumpet","NIGHT",1951
+34,"Thursday","Tarnaka","AFTERNOON",2769
+25,"Friday","Tarnaka","MORNING",1970
+45,"Sunday","Begumpet","MORNING",2124
+42,"Saturday","Mehdipatnam","EVENING",2153
+37,"Saturday","Mehdipatnam","AFTERNOON",2595
+37,"Sunday","Begumpet","NIGHT",2759
+27,"Wednesday","Mehdipatnam","MORNING",2410
+39,"Wednesday","Begumpet","AFTERNOON",2684
+35,"Saturday","Begumpet","MORNING",2956
+39,"Saturday","Begumpet","MORNING",2894
+29,"Monday","Begumpet","MORNING",2355
+32,"Sunday","Begumpet","NIGHT",2877
+29,"Monday","Charminar","NIGHT",2959
+38,"Sunday","Mehdipatnam","NIGHT",2208
+40,"Saturday","Begumpet","NIGHT",2371
+23,"Wednesday","Secunderabad","EVENING",2298
+42,"Tuesday","Begumpet","EVENING",2754
+33,"Tuesday","Tarnaka","EVENING",2141
+34,"Monday","Tarnaka","EVENING",2778
+31,"Friday","Tarnaka","AFTERNOON",2578
+28,"Tuesday","Mehdipatnam","EVENING",2357
+41,"Wednesday","Begumpet","NIGHT",2828
+31,"Sunday","Tarnaka","AFTERNOON",2866
+35,"Saturday","Begumpet","EVENING",2651
+28,"Sunday","Begumpet","AFTERNOON",2976
+38,"Wednesday","Mehdipatnam","MORNING",2723
+23,"Monday","Begumpet","NIGHT",2857
+35,"Sunday","Charminar","MORNING",2065
+26,"Thursday","Secunderabad","MORNING",2495
+31,"Monday","Mehdipatnam","MORNING",2668
+32,"Saturday","Tarnaka","EVENING",2072
+37,"Monday","Begumpet","NIGHT",2218
+28,"Monday","Tarnaka","EVENING",2917
+24,"Sunday","Begumpet","EVENING",1986
+43,"Saturday","Charminar","AFTERNOON",2980
+30,"Tuesday","Begumpet","NIGHT",1901
+30,"Saturday","Secunderabad","NIGHT",1921
+30,"Friday","Begumpet","MORNING",2304
+36,"Thursday","Charminar","AFTERNOON",1986
+28,"Monday","Tarnaka","EVENING",2161
+39,"Sunday","Tarnaka","AFTERNOON",2019
+37,"Sunday","Begumpet","MORNING",2562
+39,"Sunday","Charminar","AFTERNOON",2985
+28,"Tuesday","Tarnaka","EVENING",2328
+45,"Friday","Tarnaka","MORNING",2177
+30,"Sunday","Mehdipatnam","NIGHT",2984
+36,"Tuesday","Secunderabad","AFTERNOON",2031
+39,"Friday","Mehdipatnam","EVENING",2986
+26,"Wednesday","Secunderabad","AFTERNOON",2258
+38,"Wednesday","Mehdipatnam","NIGHT",1827
+31,"Wednesday","Charminar","AFTERNOON",2485
+42,"Tuesday","Begumpet","NIGHT",1912
+23,"Thursday","Mehdipatnam","MORNING",2973
+32,"Thursday","Tarnaka","EVENING",2981
+45,"Thursday","Charminar","NIGHT",2544
+43,"Saturday","Charminar","MORNING",1915
+45,"Thursday","Begumpet","NIGHT",2859
+26,"Monday","Charminar","MORNING",2066
+25,"Sunday","Charminar","EVENING",2528
+28,"Wednesday","Secunderabad","MORNING",2579
+36,"Friday","Begumpet","EVENING",2119
+23,"Wednesday","Begumpet","AFTERNOON",2348
+25,"Monday","Secunderabad","MORNING",2192
+42,"Saturday","Charminar","AFTERNOON",2187
+31,"Sunday","Charminar","AFTERNOON",2642
+34,"Friday","Mehdipatnam","AFTERNOON",2563
+23,"Saturday","Mehdipatnam","AFTERNOON",2745
+44,"Wednesday","Mehdipatnam","MORNING",1812
+42,"Monday","Secunderabad","AFTERNOON",2504
+26,"Friday","Mehdipatnam","AFTERNOON",2499
+38,"Thursday","Begumpet","AFTERNOON",1904
+28,"Wednesday","Secunderabad","MORNING",2587
+33,"Monday","Mehdipatnam","NIGHT",1936
+34,"Tuesday","Mehdipatnam","MORNING",2294
+34,"Sunday","Secunderabad","EVENING",1923
+33,"Saturday","Begumpet","NIGHT",2273
+36,"Thursday","Begumpet","NIGHT",2797
+29,"Monday","Tarnaka","EVENING",2920
+25,"Wednesday","Secunderabad","EVENING",2060
+30,"Sunday","Secunderabad","MORNING",2150
+44,"Thursday","Mehdipatnam","MORNING",2850
+26,"Tuesday","Charminar","MORNING",2120
+29,"Sunday","Tarnaka","NIGHT",2395
+34,"Wednesday","Begumpet","EVENING",2764
+41,"Sunday","Mehdipatnam","AFTERNOON",2426
+32,"Tuesday","Tarnaka","EVENING",2394
+41,"Tuesday","Tarnaka","EVENING",2733
+35,"Thursday","Tarnaka","AFTERNOON",2952
+32,"Tuesday","Mehdipatnam","MORNING",2049
+36,"Sunday","Begumpet","NIGHT",2883
+41,"Monday","Charminar","NIGHT",2658
+39,"Saturday","Begumpet","NIGHT",2261
+44,"Wednesday","Tarnaka","MORNING",2331
+34,"Thursday","Secunderabad","EVENING",2244
+29,"Wednesday","Tarnaka","EVENING",2805
+38,"Tuesday","Charminar","MORNING",2975
+29,"Thursday","Charminar","EVENING",2868
+28,"Tuesday","Tarnaka","NIGHT",2357
+38,"Friday","Begumpet","AFTERNOON",1879
+42,"Wednesday","Mehdipatnam","AFTERNOON",2205
+31,"Tuesday","Charminar","MORNING",2489
+43,"Tuesday","Secunderabad","AFTERNOON",1881
+41,"Tuesday","Mehdipatnam","EVENING",2688
+27,"Sunday","Tarnaka","MORNING",2649
+28,"Tuesday","Begumpet","AFTERNOON",2841
+26,"Wednesday","Mehdipatnam","AFTERNOON",2063
+28,"Saturday","Mehdipatnam","NIGHT",2448
+43,"Saturday","Secunderabad","AFTERNOON",2566
+32,"Monday","Charminar","MORNING",2591
+34,"Saturday","Mehdipatnam","NIGHT",1993
+42,"Monday","Mehdipatnam","NIGHT",2780
+42,"Monday","Begumpet","NIGHT",2995
+29,"Tuesday","Begumpet","MORNING",1867
+41,"Monday","Begumpet","MORNING",1850
+39,"Wednesday","Tarnaka","AFTERNOON",2140
+28,"Monday","Secunderabad","AFTERNOON",2124
+37,"Sunday","Charminar","MORNING",2504
+30,"Sunday","Charminar","EVENING",2696
+42,"Thursday","Tarnaka","EVENING",2697
+28,"Sunday","Secunderabad","EVENING",2738
+44,"Wednesday","Tarnaka","NIGHT",2038
+23,"Saturday","Charminar","AFTERNOON",2296
+32,"Friday","Tarnaka","MORNING",2824
+39,"Tuesday","Tarnaka","AFTERNOON",2466
+25,"Saturday","Mehdipatnam","EVENING",1967
+28,"Saturday","Mehdipatnam","NIGHT",2106
+29,"Friday","Charminar","MORNING",1807
+31,"Thursday","Secunderabad","AFTERNOON",2921
+36,"Friday","Charminar","EVENING",2326
+38,"Wednesday","Charminar","AFTERNOON",2659
+38,"Tuesday","Tarnaka","AFTERNOON",2697
+30,"Thursday","Secunderabad","EVENING",2080
+29,"Monday","Mehdipatnam","EVENING",1980
+25,"Monday","Secunderabad","EVENING",2935
+43,"Sunday","Mehdipatnam","MORNING",1996
+43,"Monday","Mehdipatnam","EVENING",1924
+36,"Thursday","Begumpet","EVENING",1917
+42,"Wednesday","Begumpet","AFTERNOON",2202
+30,"Friday","Charminar","AFTERNOON",2401
+41,"Thursday","Charminar","EVENING",2975
+38,"Friday","Charminar","EVENING",2936
+26,"Monday","Begumpet","NIGHT",2977
+29,"Tuesday","Begumpet","AFTERNOON",2320
+27,"Tuesday","Tarnaka","AFTERNOON",2325
+39,"Friday","Secunderabad","EVENING",2585
+30,"Tuesday","Mehdipatnam","EVENING",2961
+25,"Saturday","Tarnaka","EVENING",1829
+41,"Monday","Mehdipatnam","AFTERNOON",1845
+29,"Friday","Secunderabad","MORNING",2924
+45,"Monday","Tarnaka","AFTERNOON",2793
+23,"Friday","Charminar","EVENING",2149
+26,"Friday","Mehdipatnam","MORNING",2538
+37,"Friday","Secunderabad","AFTERNOON",2233
+24,"Friday","Charminar","AFTERNOON",2617
+25,"Friday","Secunderabad","EVENING",2252
+41,"Saturday","Charminar","NIGHT",2088
+31,"Wednesday","Mehdipatnam","AFTERNOON",2894
+39,"Saturday","Secunderabad","NIGHT",2166
+32,"Thursday","Begumpet","MORNING",2052
+23,"Tuesday","Secunderabad","EVENING",2456
+36,"Friday","Tarnaka","AFTERNOON",2856
+39,"Wednesday","Begumpet","NIGHT",1874
+29,"Saturday","Charminar","NIGHT",2917
+45,"Saturday","Mehdipatnam","EVENING",2488
+30,"Thursday","Tarnaka","EVENING",2346
+30,"Tuesday","Secunderabad","NIGHT",1840
+38,"Monday","Mehdipatnam","NIGHT",2674
+43,"Tuesday","Begumpet","MORNING",1871
+38,"Saturday","Mehdipatnam","AFTERNOON",2984
+43,"Thursday","Charminar","NIGHT",2920
+28,"Saturday","Charminar","MORNING",2876
+35,"Monday","Tarnaka","MORNING",2424
+31,"Monday","Charminar","AFTERNOON",2390
+40,"Thursday","Begumpet","EVENING",2047
+33,"Sunday","Charminar","NIGHT",2431
+33,"Friday","Secunderabad","MORNING",2858
+40,"Sunday","Charminar","EVENING",2990
+36,"Friday","Secunderabad","NIGHT",2060
+26,"Thursday","Charminar","MORNING",2993
+34,"Sunday","Secunderabad","MORNING",2144
+23,"Wednesday","Charminar","AFTERNOON",2483
+34,"Monday","Begumpet","NIGHT",2178
+34,"Sunday","Tarnaka","MORNING",2204
+37,"Saturday","Mehdipatnam","EVENING",2912
+40,"Friday","Secunderabad","AFTERNOON",2526
+36,"Tuesday","Tarnaka","MORNING",2822
+25,"Tuesday","Mehdipatnam","NIGHT",2309
+34,"Friday","Secunderabad","EVENING",2069
+32,"Tuesday","Mehdipatnam","MORNING",2385
+25,"Tuesday","Mehdipatnam","AFTERNOON",2708
+23,"Thursday","Mehdipatnam","AFTERNOON",2330
+29,"Thursday","Secunderabad","AFTERNOON",2784
+43,"Sunday","Secunderabad","NIGHT",1808
+44,"Sunday","Begumpet","MORNING",2343
+26,"Thursday","Secunderabad","MORNING",2158
+43,"Thursday","Secunderabad","MORNING",2383
+32,"Friday","Mehdipatnam","AFTERNOON",2333
+42,"Thursday","Tarnaka","MORNING",2466
+34,"Thursday","Secunderabad","EVENING",2962
+29,"Monday","Secunderabad","MORNING",2966
+45,"Tuesday","Charminar","EVENING",2451
+30,"Sunday","Tarnaka","MORNING",2572
+41,"Friday","Secunderabad","NIGHT",2002
+34,"Saturday","Charminar","MORNING",2772
+31,"Saturday","Begumpet","EVENING",2692
+27,"Saturday","Secunderabad","MORNING",2670
+40,"Saturday","Tarnaka","EVENING",2305
+43,"Tuesday","Secunderabad","MORNING",2467
+24,"Saturday","Tarnaka","AFTERNOON",2559
+30,"Saturday","Mehdipatnam","AFTERNOON",1839
+29,"Saturday","Begumpet","AFTERNOON",2643
+35,"Sunday","Secunderabad","NIGHT",1997
+34,"Friday","Charminar","NIGHT",2752
+34,"Sunday","Begumpet","AFTERNOON",2903
+42,"Wednesday","Mehdipatnam","MORNING",2562
+44,"Friday","Charminar","MORNING",2545
+44,"Tuesday","Begumpet","MORNING",2617
+37,"Monday","Tarnaka","AFTERNOON",2127
+29,"Monday","Begumpet","MORNING",2826
+45,"Sunday","Secunderabad","NIGHT",2378
+42,"Friday","Tarnaka","EVENING",1840
+39,"Sunday","Secunderabad","AFTERNOON",2252
+25,"Thursday","Tarnaka","MORNING",2522
+34,"Thursday","Mehdipatnam","MORNING",2439
+41,"Friday","Charminar","MORNING",1831
+25,"Sunday","Mehdipatnam","MORNING",2505
+28,"Monday","Mehdipatnam","NIGHT",2676
+25,"Sunday","Charminar","AFTERNOON",1942
+25,"Wednesday","Mehdipatnam","EVENING",2923
+23,"Sunday","Begumpet","AFTERNOON",1976
+39,"Monday","Begumpet","EVENING",2718
+37,"Friday","Tarnaka","NIGHT",2790
+44,"Saturday","Mehdipatnam","NIGHT",2304
+23,"Saturday","Secunderabad","EVENING",2264
+40,"Thursday","Charminar","AFTERNOON",2560
+45,"Thursday","Tarnaka","NIGHT",2099
+43,"Wednesday","Secunderabad","EVENING",2217
+42,"Thursday","Tarnaka","NIGHT",2315
+30,"Thursday","Charminar","AFTERNOON",2440
+28,"Monday","Mehdipatnam","NIGHT",2931
+36,"Saturday","Secunderabad","EVENING",2924
+24,"Thursday","Mehdipatnam","AFTERNOON",2042
+41,"Sunday","Secunderabad","EVENING",1990
+45,"Tuesday","Tarnaka","MORNING",2599
+40,"Thursday","Mehdipatnam","MORNING",2560
+27,"Tuesday","Secunderabad","NIGHT",2029
+24,"Saturday","Tarnaka","MORNING",2220
+23,"Friday","Tarnaka","MORNING",1862
+41,"Thursday","Tarnaka","NIGHT",2896
+32,"Wednesday","Secunderabad","AFTERNOON",2220
+25,"Tuesday","Charminar","NIGHT",2135
+27,"Thursday","Tarnaka","MORNING",2844
+44,"Saturday","Charminar","EVENING",2200
+41,"Wednesday","Begumpet","AFTERNOON",2279
+31,"Wednesday","Charminar","MORNING",1974
+31,"Tuesday","Tarnaka","MORNING",2521
+33,"Monday","Begumpet","MORNING",2704
+45,"Wednesday","Begumpet","NIGHT",2588
+43,"Thursday","Begumpet","EVENING",1899
+41,"Wednesday","Begumpet","AFTERNOON",2316
+41,"Sunday","Tarnaka","NIGHT",2362
+33,"Wednesday","Secunderabad","NIGHT",2364
+27,"Friday","Begumpet","MORNING",2488
+33,"Monday","Tarnaka","EVENING",1910
+24,"Tuesday","Charminar","AFTERNOON",1914
+27,"Saturday","Mehdipatnam","EVENING",2171
+24,"Wednesday","Charminar","MORNING",2088
+29,"Sunday","Begumpet","AFTERNOON",2821
+23,"Saturday","Charminar","NIGHT",2715
+39,"Wednesday","Tarnaka","EVENING",1997
+39,"Friday","Begumpet","EVENING",2704
+35,"Thursday","Secunderabad","MORNING",2297
+36,"Sunday","Tarnaka","AFTERNOON",2190
+32,"Sunday","Tarnaka","MORNING",2167
+42,"Saturday","Tarnaka","EVENING",2301
+42,"Saturday","Charminar","EVENING",1918
+37,"Saturday","Secunderabad","MORNING",2841
+37,"Saturday","Tarnaka","EVENING",2315
+24,"Tuesday","Tarnaka","MORNING",2016
+38,"Sunday","Tarnaka","NIGHT",2278
+37,"Wednesday","Tarnaka","AFTERNOON",1895
+28,"Saturday","Tarnaka","AFTERNOON",2542
+27,"Monday","Mehdipatnam","MORNING",2784
+42,"Monday","Tarnaka","NIGHT",2438
+44,"Saturday","Mehdipatnam","MORNING",2902
+23,"Friday","Begumpet","MORNING",1970
+27,"Friday","Begumpet","EVENING",1851
+31,"Thursday","Charminar","EVENING",2154
+38,"Sunday","Secunderabad","EVENING",1971
+43,"Sunday","Mehdipatnam","AFTERNOON",2533
+23,"Thursday","Charminar","NIGHT",2226
+44,"Thursday","Tarnaka","NIGHT",2710
+35,"Monday","Charminar","EVENING",2919
+31,"Tuesday","Secunderabad","MORNING",2539
+40,"Tuesday","Charminar","MORNING",1961
+33,"Friday","Mehdipatnam","MORNING",2524
+37,"Sunday","Secunderabad","AFTERNOON",2633
+38,"Monday","Begumpet","NIGHT",2197
+41,"Saturday","Begumpet","MORNING",2157
+29,"Saturday","Secunderabad","EVENING",2180
+39,"Friday","Secunderabad","AFTERNOON",2190
+40,"Tuesday","Begumpet","MORNING",2189
+36,"Thursday","Begumpet","NIGHT",2787
+27,"Saturday","Tarnaka","AFTERNOON",1863
+29,"Saturday","Tarnaka","AFTERNOON",2453
+41,"Sunday","Tarnaka","NIGHT",1842
+38,"Wednesday","Secunderabad","MORNING",2897
+30,"Sunday","Tarnaka","AFTERNOON",2562
+23,"Thursday","Mehdipatnam","AFTERNOON",2432
+38,"Monday","Begumpet","EVENING",2782
+39,"Monday","Tarnaka","NIGHT",2112
+24,"Wednesday","Tarnaka","MORNING",1962
+33,"Sunday","Begumpet","AFTERNOON",2231
+34,"Friday","Mehdipatnam","MORNING",2888
+25,"Saturday","Secunderabad","EVENING",2160
+36,"Tuesday","Mehdipatnam","AFTERNOON",2671
+25,"Saturday","Tarnaka","AFTERNOON",2429
+45,"Sunday","Begumpet","AFTERNOON",2828
+34,"Monday","Mehdipatnam","EVENING",2456
+37,"Tuesday","Charminar","AFTERNOON",2893
+42,"Tuesday","Tarnaka","NIGHT",2859
+26,"Saturday","Charminar","EVENING",2293
+45,"Thursday","Begumpet","AFTERNOON",2614
+35,"Monday","Begumpet","MORNING",2136
+39,"Friday","Tarnaka","AFTERNOON",2133
+27,"Saturday","Tarnaka","EVENING",2204
+34,"Monday","Begumpet","MORNING",2418
+31,"Tuesday","Begumpet","EVENING",2118
+42,"Wednesday","Tarnaka","EVENING",1838
+42,"Thursday","Tarnaka","NIGHT",2667
+44,"Sunday","Charminar","AFTERNOON",2193
+36,"Monday","Tarnaka","NIGHT",2347
+33,"Wednesday","Mehdipatnam","MORNING",1902
+43,"Wednesday","Begumpet","AFTERNOON",2335
+28,"Tuesday","Begumpet","MORNING",2032
+33,"Sunday","Charminar","MORNING",2014
+32,"Sunday","Jubilee Hills","MORNING",3654
+25,"Wednesday","Jubilee Hills","AFTERNOON",4041
+36,"Sunday","KPHB","MORNING",4459
+27,"Saturday","KPHB","AFTERNOON",3678
+41,"Saturday","KPHB","AFTERNOON",4208
+31,"Friday","Ameerpet","MORNING",4242
+45,"Thursday","KPHB","MORNING",4383
+37,"Saturday","KPHB","AFTERNOON",3951
+41,"Tuesday","Ameerpet","MORNING",4018
+25,"Saturday","Jubilee Hills","AFTERNOON",3876
+27,"Friday","Hitec City","MORNING",3667
+28,"Wednesday","Hitec City","AFTERNOON",3761
+37,"Tuesday","KPHB","MORNING",4104
+39,"Tuesday","Ameerpet","AFTERNOON",3842
+24,"Thursday","Ameerpet","MORNING",4386
+26,"Thursday","Ameerpet","MORNING",3872
+27,"Sunday","Kondapur","AFTERNOON",4338
+41,"Monday","KPHB","AFTERNOON",4065
+37,"Thursday","KPHB","AFTERNOON",3623
+26,"Wednesday","Hitec City","MORNING",4323
+29,"Wednesday","Hitec City","AFTERNOON",3625
+35,"Friday","Hitec City","AFTERNOON",4223
+36,"Monday","Ameerpet","MORNING",4062
+43,"Sunday","Kondapur","AFTERNOON",3903
+37,"Sunday","KPHB","AFTERNOON",3842
+41,"Thursday","Ameerpet","MORNING",3826
+44,"Saturday","KPHB","AFTERNOON",4056
+30,"Friday","Kondapur","AFTERNOON",3793
+29,"Tuesday","Jubilee Hills","AFTERNOON",3720
+31,"Wednesday","Hitec City","AFTERNOON",4140
+33,"Sunday","Kondapur","AFTERNOON",3822
+43,"Sunday","Kondapur","MORNING",4235
+34,"Sunday","Ameerpet","MORNING",3580
+35,"Wednesday","Hitec City","MORNING",4071
+34,"Thursday","KPHB","MORNING",4006
+24,"Friday","Ameerpet","MORNING",4171
+34,"Tuesday","KPHB","MORNING",3806
+29,"Thursday","Hitec City","AFTERNOON",4380
+40,"Tuesday","Ameerpet","AFTERNOON",4426
+27,"Sunday","Hitec City","MORNING",3572
+26,"Friday","Ameerpet","AFTERNOON",4405
+37,"Friday","KPHB","AFTERNOON",3823
+32,"Friday","Jubilee Hills","AFTERNOON",3866
+36,"Saturday","KPHB","MORNING",4215
+33,"Tuesday","Ameerpet","MORNING",3600
+25,"Thursday","Kondapur","MORNING",3971
+26,"Tuesday","Jubilee Hills","AFTERNOON",4003
+31,"Sunday","KPHB","AFTERNOON",4102
+41,"Sunday","Hitec City","AFTERNOON",4020
+39,"Sunday","Jubilee Hills","MORNING",3866
+30,"Thursday","Ameerpet","AFTERNOON",4377
+28,"Monday","Jubilee Hills","AFTERNOON",4016
+35,"Saturday","Kondapur","MORNING",3561
+44,"Friday","Ameerpet","AFTERNOON",4418
+36,"Monday","Ameerpet","AFTERNOON",3927
+25,"Sunday","Kondapur","MORNING",3611
+44,"Monday","Ameerpet","AFTERNOON",3739
+26,"Sunday","Hitec City","MORNING",4284
+34,"Thursday","KPHB","MORNING",3758
+43,"Wednesday","Kondapur","MORNING",3602
+26,"Thursday","Kondapur","MORNING",3642
+42,"Friday","Jubilee Hills","AFTERNOON",3638
+35,"Thursday","Hitec City","AFTERNOON",4024
+25,"Sunday","Kondapur","MORNING",3733
+39,"Wednesday","Hitec City","AFTERNOON",4034
+26,"Sunday","Jubilee Hills","MORNING",3805
+39,"Saturday","KPHB","MORNING",3534
+40,"Saturday","Kondapur","AFTERNOON",4063
+30,"Monday","Hitec City","AFTERNOON",3771
+31,"Wednesday","Hitec City","MORNING",3764
+39,"Tuesday","KPHB","AFTERNOON",4235
+37,"Sunday","Kondapur","AFTERNOON",4426
+33,"Tuesday","Ameerpet","MORNING",4358
+26,"Saturday","Jubilee Hills","AFTERNOON",3851
+38,"Tuesday","Ameerpet","AFTERNOON",3768
+38,"Wednesday","Kondapur","AFTERNOON",3603
+38,"Tuesday","KPHB","AFTERNOON",3527
+32,"Monday","Ameerpet","MORNING",3604
+38,"Saturday","Hitec City","AFTERNOON",3762
+34,"Tuesday","Jubilee Hills","AFTERNOON",4483
+42,"Wednesday","KPHB","MORNING",4394
+38,"Friday","Kondapur","AFTERNOON",3665
+23,"Saturday","Jubilee Hills","AFTERNOON",3823
+36,"Monday","Kondapur","AFTERNOON",4422
+28,"Monday","Kondapur","AFTERNOON",3527
+42,"Thursday","Hitec City","AFTERNOON",4177
+27,"Monday","Jubilee Hills","AFTERNOON",3865
+39,"Thursday","Hitec City","AFTERNOON",4245
+26,"Thursday","Kondapur","MORNING",4302
+37,"Tuesday","KPHB","MORNING",3845
+39,"Saturday","KPHB","AFTERNOON",3772
+45,"Saturday","Hitec City","AFTERNOON",4275
+40,"Friday","KPHB","MORNING",3785
+26,"Wednesday","Hitec City","AFTERNOON",3679
+34,"Friday","Kondapur","MORNING",3615
+38,"Monday","Jubilee Hills","MORNING",4475
+42,"Thursday","Hitec City","AFTERNOON",4194
+40,"Thursday","KPHB","AFTERNOON",4330
+31,"Tuesday","Ameerpet","AFTERNOON",3696
+35,"Saturday","Jubilee Hills","MORNING",4288
+34,"Thursday","Ameerpet","MORNING",3617
+23,"Wednesday","Kondapur","AFTERNOON",3597
+44,"Wednesday","Kondapur","MORNING",3500
+34,"Monday","Jubilee Hills","MORNING",3786
+24,"Tuesday","Ameerpet","MORNING",4038
+25,"Friday","Ameerpet","AFTERNOON",3729
+42,"Saturday","Ameerpet","AFTERNOON",4412
+27,"Friday","Ameerpet","MORNING",4329
+37,"Thursday","Kondapur","AFTERNOON",3887
+37,"Monday","KPHB","AFTERNOON",3628
+43,"Tuesday","KPHB","MORNING",4487
+40,"Tuesday","KPHB","AFTERNOON",3930
+41,"Thursday","KPHB","AFTERNOON",3943
+40,"Thursday","Ameerpet","AFTERNOON",3528
+31,"Thursday","Kondapur","MORNING",4292
+35,"Sunday","Hitec City","MORNING",4363
+30,"Friday","Kondapur","MORNING",4161
+34,"Monday","Kondapur","MORNING",4263
+36,"Tuesday","Kondapur","MORNING",3550
+31,"Tuesday","KPHB","AFTERNOON",3668
+42,"Friday","Jubilee Hills","MORNING",4385
+28,"Tuesday","Ameerpet","MORNING",3688
+23,"Sunday","Hitec City","AFTERNOON",3963
+39,"Friday","Kondapur","AFTERNOON",4051
+43,"Tuesday","Hitec City","MORNING",4136
+25,"Sunday","Kondapur","MORNING",4248
+41,"Tuesday","Ameerpet","MORNING",3851
+25,"Thursday","Hitec City","AFTERNOON",3727
+27,"Friday","Jubilee Hills","MORNING",4042
+25,"Monday","Hitec City","AFTERNOON",4192
+35,"Saturday","Ameerpet","AFTERNOON",4030
+35,"Friday","Kondapur","MORNING",4250
+31,"Monday","KPHB","AFTERNOON",4077
+44,"Sunday","Hitec City","AFTERNOON",4136
+30,"Friday","Ameerpet","MORNING",3822
+31,"Tuesday","Ameerpet","AFTERNOON",3951
+32,"Sunday","Hitec City","AFTERNOON",3579
+25,"Thursday","KPHB","AFTERNOON",3506
+34,"Wednesday","KPHB","AFTERNOON",3729
+30,"Friday","Ameerpet","MORNING",4281
+27,"Sunday","Ameerpet","AFTERNOON",4326
+32,"Wednesday","Ameerpet","MORNING",4416
+44,"Sunday","Ameerpet","MORNING",4012
+29,"Monday","Ameerpet","MORNING",4201
+44,"Saturday","Kondapur","AFTERNOON",4341
+41,"Friday","Jubilee Hills","MORNING",4246
+37,"Sunday","KPHB","AFTERNOON",3790
+42,"Sunday","Jubilee Hills","MORNING",4370
+43,"Wednesday","KPHB","MORNING",4494
+31,"Wednesday","KPHB","MORNING",3605
+33,"Monday","Kondapur","AFTERNOON",3967
+42,"Friday","Jubilee Hills","MORNING",3734
+30,"Wednesday","Ameerpet","MORNING",4279
+28,"Thursday","Kondapur","MORNING",4271
+41,"Saturday","Hitec City","AFTERNOON",3904
+24,"Sunday","Jubilee Hills","MORNING",3943
+42,"Saturday","Hitec City","MORNING",3532
+43,"Tuesday","Ameerpet","AFTERNOON",3814
+39,"Tuesday","Jubilee Hills","MORNING",4059
+38,"Monday","Jubilee Hills","AFTERNOON",3688
+24,"Wednesday","Hitec City","AFTERNOON",4310
+36,"Monday","Jubilee Hills","AFTERNOON",4385
+31,"Thursday","Ameerpet","MORNING",3705
+25,"Thursday","Ameerpet","MORNING",4394
+33,"Sunday","Ameerpet","AFTERNOON",3888
+38,"Thursday","KPHB","AFTERNOON",4117
+40,"Tuesday","Ameerpet","MORNING",4030
+37,"Monday","Ameerpet","MORNING",4182
+26,"Wednesday","Jubilee Hills","MORNING",4188
+45,"Saturday","KPHB","MORNING",3592
+29,"Saturday","KPHB","MORNING",4382
+45,"Friday","Kondapur","AFTERNOON",3628
+39,"Sunday","Kondapur","AFTERNOON",4350
+41,"Monday","Ameerpet","AFTERNOON",4013
+27,"Friday","Kondapur","AFTERNOON",3688
+29,"Tuesday","Hitec City","MORNING",3678
+42,"Wednesday","Kondapur","MORNING",3848
+26,"Friday","Jubilee Hills","AFTERNOON",4216
+34,"Tuesday","Jubilee Hills","AFTERNOON",4417
+36,"Wednesday","Ameerpet","MORNING",3888
+44,"Saturday","Hitec City","MORNING",4023
+42,"Wednesday","Jubilee Hills","MORNING",4215
+45,"Thursday","Hitec City","MORNING",4366
+28,"Tuesday","Hitec City","AFTERNOON",4008
+45,"Sunday","KPHB","AFTERNOON",3758
+35,"Tuesday","Jubilee Hills","MORNING",3641
+36,"Monday","Kondapur","AFTERNOON",4482
+44,"Monday","Hitec City","MORNING",3907
+44,"Wednesday","KPHB","AFTERNOON",3849
+26,"Tuesday","Ameerpet","MORNING",3749
+25,"Friday","KPHB","MORNING",3853
+31,"Friday","Ameerpet","AFTERNOON",4216
+45,"Wednesday","Ameerpet","MORNING",3715
+30,"Sunday","Kondapur","AFTERNOON",4045
+33,"Wednesday","KPHB","MORNING",4262
+31,"Wednesday","KPHB","MORNING",3896
+27,"Saturday","Hitec City","MORNING",4037
+27,"Wednesday","KPHB","MORNING",4448
+36,"Tuesday","Kondapur","MORNING",4403
+26,"Sunday","KPHB","MORNING",3568
+30,"Monday","KPHB","AFTERNOON",3589
+27,"Friday","Ameerpet","AFTERNOON",3775
+43,"Wednesday","Ameerpet","AFTERNOON",3855
+25,"Tuesday","Hitec City","AFTERNOON",4250
+27,"Wednesday","KPHB","AFTERNOON",4382
+38,"Thursday","Hitec City","AFTERNOON",4308
+41,"Saturday","Hitec City","AFTERNOON",3678
+35,"Monday","Hitec City","MORNING",4399
+35,"Friday","Hitec City","MORNING",3735
+27,"Sunday","KPHB","MORNING",3718
+25,"Sunday","Kondapur","AFTERNOON",3676
+33,"Sunday","Ameerpet","AFTERNOON",4412
+34,"Sunday","Kondapur","AFTERNOON",4315
+25,"Wednesday","KPHB","MORNING",4108
+25,"Tuesday","Kondapur","MORNING",4134
+25,"Sunday","Ameerpet","AFTERNOON",4363
+29,"Saturday","KPHB","MORNING",4251
+42,"Monday","Jubilee Hills","AFTERNOON",4422
+34,"Wednesday","KPHB","AFTERNOON",4153
+34,"Sunday","Kondapur","AFTERNOON",4476
+42,"Friday","Hitec City","MORNING",4272
+35,"Saturday","Jubilee Hills","AFTERNOON",4300
+38,"Wednesday","KPHB","AFTERNOON",4295
+34,"Wednesday","Jubilee Hills","MORNING",3920
+25,"Tuesday","Jubilee Hills","AFTERNOON",3928
+23,"Saturday","Kondapur","AFTERNOON",4144
+43,"Monday","Ameerpet","AFTERNOON",3960
+26,"Tuesday","Jubilee Hills","AFTERNOON",3859
+23,"Thursday","Hitec City","MORNING",4073
+26,"Monday","Jubilee Hills","MORNING",3889
+40,"Sunday","Hitec City","MORNING",4040
+33,"Thursday","Kondapur","MORNING",4369
+36,"Friday","KPHB","MORNING",3839
+45,"Wednesday","Jubilee Hills","AFTERNOON",4492
+38,"Monday","Jubilee Hills","AFTERNOON",3577
+44,"Tuesday","Jubilee Hills","MORNING",4032
+45,"Thursday","Hitec City","AFTERNOON",3599
+36,"Monday","Ameerpet","MORNING",3807
+40,"Monday","Ameerpet","MORNING",3716
+38,"Tuesday","KPHB","MORNING",4335
+40,"Saturday","KPHB","MORNING",3877
+31,"Tuesday","KPHB","MORNING",3685
+45,"Wednesday","Ameerpet","AFTERNOON",3606
+23,"Thursday","Jubilee Hills","MORNING",4270
+24,"Saturday","Hitec City","MORNING",4215
+39,"Monday","Hitec City","AFTERNOON",3877
+43,"Friday","Hitec City","AFTERNOON",4336
+35,"Thursday","Hitec City","AFTERNOON",3749
+43,"Sunday","Hitec City","MORNING",3968
+42,"Friday","Kondapur","AFTERNOON",3827
+43,"Tuesday","Hitec City","MORNING",3739
+44,"Monday","Kondapur","MORNING",4046
+24,"Tuesday","Hitec City","MORNING",3544
+42,"Saturday","Jubilee Hills","MORNING",3590
+36,"Monday","KPHB","AFTERNOON",4308
+25,"Tuesday","Jubilee Hills","AFTERNOON",4481
+33,"Wednesday","Hitec City","MORNING",4470
+45,"Thursday","Kondapur","AFTERNOON",3547
+33,"Thursday","Kondapur","MORNING",4288
+37,"Wednesday","Ameerpet","MORNING",3838
+29,"Tuesday","Hitec City","AFTERNOON",3748
+42,"Sunday","Jubilee Hills","MORNING",4130
+23,"Saturday","Jubilee Hills","AFTERNOON",3752
+31,"Sunday","KPHB","AFTERNOON",4396
+27,"Friday","KPHB","MORNING",4097
+35,"Sunday","Kondapur","AFTERNOON",4108
+30,"Sunday","KPHB","MORNING",4460
+30,"Sunday","Hitec City","AFTERNOON",4464
+36,"Saturday","KPHB","AFTERNOON",3963
+44,"Tuesday","Ameerpet","MORNING",4076
+44,"Monday","Kondapur","AFTERNOON",3670
+27,"Wednesday","Ameerpet","MORNING",4422
+34,"Friday","Ameerpet","AFTERNOON",4154
+44,"Thursday","Jubilee Hills","MORNING",3900
+33,"Friday","Hitec City","MORNING",4371
+34,"Friday","Jubilee Hills","AFTERNOON",4224
+36,"Thursday","Jubilee Hills","MORNING",3527
+38,"Wednesday","Ameerpet","MORNING",4021
+39,"Thursday","Ameerpet","AFTERNOON",4474
+35,"Monday","KPHB","AFTERNOON",4051
+29,"Friday","Ameerpet","MORNING",3782
+40,"Sunday","Kondapur","AFTERNOON",4436
+34,"Thursday","Kondapur","AFTERNOON",3760
+35,"Friday","Jubilee Hills","MORNING",4069
+27,"Tuesday","KPHB","MORNING",4421
+33,"Monday","Hitec City","AFTERNOON",4238
+25,"Monday","Jubilee Hills","AFTERNOON",3891
+23,"Friday","Ameerpet","AFTERNOON",3890
+24,"Monday","Ameerpet","MORNING",3770
+40,"Friday","Jubilee Hills","MORNING",3921
+27,"Tuesday","Ameerpet","AFTERNOON",3518
+40,"Thursday","Kondapur","MORNING",3922
+23,"Sunday","Kondapur","AFTERNOON",4447
+44,"Sunday","Kondapur","AFTERNOON",3552
+40,"Wednesday","Kondapur","MORNING",4318
+32,"Wednesday","KPHB","MORNING",3858
+32,"Saturday","KPHB","MORNING",3564
+26,"Thursday","Ameerpet","MORNING",3601
+25,"Tuesday","Jubilee Hills","AFTERNOON",3635
+45,"Sunday","Hitec City","MORNING",4269
+29,"Wednesday","Kondapur","MORNING",3937
+30,"Wednesday","Jubilee Hills","MORNING",3975
+36,"Thursday","Jubilee Hills","AFTERNOON",3665
+31,"Wednesday","Kondapur","MORNING",4042
+38,"Sunday","Ameerpet","AFTERNOON",3553
+30,"Tuesday","Jubilee Hills","MORNING",3502
+23,"Friday","Hitec City","MORNING",3873
+40,"Friday","KPHB","AFTERNOON",4242
+45,"Thursday","Kondapur","AFTERNOON",3944
+34,"Saturday","Jubilee Hills","MORNING",4271
+44,"Sunday","Ameerpet","MORNING",4191
+43,"Friday","Hitec City","MORNING",3521
+40,"Thursday","Ameerpet","AFTERNOON",4118
+37,"Thursday","Hitec City","AFTERNOON",4393
+44,"Sunday","Kondapur","AFTERNOON",3658
+24,"Wednesday","Ameerpet","AFTERNOON",4134
+43,"Wednesday","Kondapur","AFTERNOON",4437
+43,"Saturday","Ameerpet","MORNING",3994
+41,"Thursday","Hitec City","MORNING",3607
+36,"Thursday","Ameerpet","MORNING",4140
+23,"Friday","Jubilee Hills","AFTERNOON",4052
+32,"Sunday","Kondapur","AFTERNOON",4306
+28,"Monday","KPHB","MORNING",4499
+27,"Friday","Kondapur","MORNING",4030
+38,"Thursday","Ameerpet","MORNING",4166
+40,"Sunday","Jubilee Hills","AFTERNOON",4425
+39,"Wednesday","Ameerpet","MORNING",4282
+28,"Wednesday","Hitec City","MORNING",4267
+35,"Tuesday","Jubilee Hills","AFTERNOON",3772
+38,"Wednesday","Jubilee Hills","AFTERNOON",3666
+25,"Monday","KPHB","MORNING",4284
+33,"Sunday","Ameerpet","AFTERNOON",3686
+29,"Monday","Ameerpet","AFTERNOON",3827
+33,"Monday","Kondapur","MORNING",3624
+25,"Thursday","Hitec City","AFTERNOON",4112
+25,"Monday","KPHB","MORNING",4087
+26,"Tuesday","KPHB","MORNING",3662
+45,"Saturday","Kondapur","MORNING",3506
+44,"Thursday","Hitec City","MORNING",4148
+26,"Monday","Hitec City","AFTERNOON",4138
+44,"Sunday","Ameerpet","MORNING",4271
+38,"Saturday","Jubilee Hills","MORNING",3591
+43,"Thursday","KPHB","MORNING",3711
+23,"Thursday","Ameerpet","MORNING",3600
+24,"Saturday","KPHB","MORNING",3523
+35,"Tuesday","Hitec City","AFTERNOON",3807
+35,"Sunday","Kondapur","AFTERNOON",4329
+44,"Tuesday","Kondapur","MORNING",3905
+45,"Wednesday","Ameerpet","AFTERNOON",4492
+43,"Wednesday","Jubilee Hills","MORNING",4116
+45,"Monday","Jubilee Hills","AFTERNOON",4426
+34,"Sunday","Ameerpet","AFTERNOON",4145
+43,"Thursday","KPHB","MORNING",3530
+39,"Thursday","Kondapur","MORNING",4358
+28,"Monday","Hitec City","MORNING",3594
+29,"Thursday","Ameerpet","AFTERNOON",3775
+32,"Sunday","Ameerpet","MORNING",4473
+36,"Friday","Kondapur","AFTERNOON",4333
+37,"Sunday","Ameerpet","AFTERNOON",4403
+26,"Wednesday","KPHB","AFTERNOON",4065
+37,"Saturday","Kondapur","AFTERNOON",4199
+33,"Thursday","Kondapur","AFTERNOON",3999
+25,"Saturday","Jubilee Hills","AFTERNOON",4030
+26,"Wednesday","KPHB","MORNING",3866
+42,"Thursday","Jubilee Hills","AFTERNOON",4399
+33,"Friday","Kondapur","AFTERNOON",4010
+31,"Thursday","KPHB","MORNING",3551
+45,"Friday","KPHB","MORNING",4243
+36,"Friday","Hitec City","AFTERNOON",3929
+38,"Wednesday","KPHB","MORNING",4391
+37,"Monday","Kondapur","AFTERNOON",4279
+30,"Thursday","Ameerpet","AFTERNOON",3829
+26,"Saturday","Ameerpet","MORNING",3769
+45,"Wednesday","KPHB","MORNING",4223
+25,"Tuesday","Jubilee Hills","AFTERNOON",4481
+31,"Thursday","Kondapur","MORNING",4031
+24,"Thursday","Ameerpet","AFTERNOON",4022
+34,"Saturday","KPHB","MORNING",3955
+30,"Thursday","Ameerpet","MORNING",3736
+27,"Tuesday","Ameerpet","AFTERNOON",4139
+35,"Friday","Hitec City","AFTERNOON",4005
+26,"Friday","Jubilee Hills","MORNING",3999
+27,"Wednesday","Kondapur","MORNING",4171
+35,"Monday","KPHB","AFTERNOON",4432
+32,"Tuesday","Hitec City","AFTERNOON",3857
+26,"Friday","Jubilee Hills","AFTERNOON",4069
+41,"Friday","Kondapur","AFTERNOON",3865
+30,"Tuesday","Kondapur","AFTERNOON",3612
+28,"Saturday","Kondapur","MORNING",4226
+24,"Tuesday","Jubilee Hills","AFTERNOON",4257
+41,"Friday","Ameerpet","MORNING",4181
+36,"Wednesday","Jubilee Hills","MORNING",3535
+40,"Friday","Kondapur","AFTERNOON",4212
+30,"Friday","Ameerpet","AFTERNOON",4315
+27,"Thursday","Jubilee Hills","MORNING",3620
+35,"Monday","Ameerpet","AFTERNOON",3926
+39,"Monday","Jubilee Hills","MORNING",4325
+37,"Wednesday","Kondapur","MORNING",3699
+31,"Saturday","Kondapur","AFTERNOON",4371
+45,"Friday","Ameerpet","AFTERNOON",3537
+38,"Sunday","Ameerpet","AFTERNOON",4405
+31,"Monday","Kondapur","AFTERNOON",4209
+27,"Sunday","Jubilee Hills","MORNING",4019
+43,"Thursday","Kondapur","AFTERNOON",4056
+44,"Friday","Kondapur","AFTERNOON",4433
+32,"Thursday","Hitec City","AFTERNOON",3729
+36,"Friday","Jubilee Hills","MORNING",4219
+38,"Saturday","Hitec City","MORNING",4003
+29,"Monday","Hitec City","AFTERNOON",4083
+30,"Saturday","Kondapur","MORNING",4154
+39,"Sunday","Kondapur","AFTERNOON",4109
+34,"Thursday","Ameerpet","MORNING",3826
+29,"Sunday","Ameerpet","MORNING",3794
+45,"Sunday","Ameerpet","MORNING",4002
+38,"Tuesday","Jubilee Hills","MORNING",4427
+26,"Friday","Jubilee Hills","MORNING",4408
+27,"Thursday","Kondapur","MORNING",4112
+25,"Tuesday","KPHB","MORNING",3988
+30,"Wednesday","KPHB","AFTERNOON",3718
+37,"Thursday","Kondapur","MORNING",3562
+34,"Tuesday","KPHB","AFTERNOON",3902
+45,"Thursday","Jubilee Hills","MORNING",4066
+26,"Thursday","Jubilee Hills","MORNING",4434
+24,"Monday","Ameerpet","AFTERNOON",3870
+33,"Saturday","Kondapur","AFTERNOON",4418
+30,"Thursday","KPHB","MORNING",4200
+41,"Sunday","Ameerpet","MORNING",4346
+35,"Wednesday","Hitec City","MORNING",3519
+42,"Monday","Kondapur","AFTERNOON",3568
+26,"Friday","Ameerpet","MORNING",4448
+30,"Sunday","KPHB","AFTERNOON",3697
+43,"Saturday","Ameerpet","MORNING",3537
+41,"Sunday","Hitec City","MORNING",3872
+29,"Saturday","Kondapur","AFTERNOON",4084
+31,"Friday","Ameerpet","AFTERNOON",4116
+31,"Saturday","Jubilee Hills","MORNING",3791
+44,"Tuesday","Hitec City","MORNING",3633
+28,"Monday","Ameerpet","AFTERNOON",3824
+44,"Thursday","KPHB","MORNING",4474
+23,"Friday","KPHB","MORNING",3539
+44,"Sunday","Jubilee Hills","MORNING",3538
+38,"Tuesday","Kondapur","AFTERNOON",3928
+37,"Saturday","Ameerpet","MORNING",3957
+23,"Tuesday","KPHB","MORNING",3543
+44,"Friday","Ameerpet","MORNING",3593
+25,"Sunday","Hitec City","AFTERNOON",3809
+27,"Tuesday","Hitec City","AFTERNOON",4045
+39,"Tuesday","Kondapur","MORNING",4136
+41,"Wednesday","Ameerpet","MORNING",3740
+35,"Thursday","KPHB","AFTERNOON",3803
+39,"Sunday","Hitec City","MORNING",4238
+31,"Sunday","Kondapur","MORNING",3712
+42,"Saturday","KPHB","AFTERNOON",3545
+41,"Monday","Hitec City","AFTERNOON",3929
+30,"Saturday","KPHB","MORNING",4190
+39,"Thursday","Jubilee Hills","AFTERNOON",3803
+44,"Tuesday","Ameerpet","AFTERNOON",4377
+42,"Tuesday","Hitec City","MORNING",4007
+43,"Thursday","KPHB","MORNING",3666
+32,"Tuesday","KPHB","MORNING",3822
+26,"Thursday","Kondapur","AFTERNOON",3618
+43,"Tuesday","Ameerpet","MORNING",4139
+39,"Thursday","Hitec City","AFTERNOON",4305
+45,"Monday","Jubilee Hills","MORNING",3616
+24,"Friday","Ameerpet","MORNING",4310
+25,"Friday","Ameerpet","MORNING",3943
+38,"Wednesday","Jubilee Hills","MORNING",4114
+27,"Sunday","Kondapur","MORNING",4289
+45,"Thursday","Ameerpet","AFTERNOON",3675
+40,"Thursday","Kondapur","AFTERNOON",3969
+43,"Monday","Hitec City","AFTERNOON",3665
+44,"Saturday","Jubilee Hills","AFTERNOON",4410
+45,"Monday","Ameerpet","AFTERNOON",3744
+41,"Monday","Hitec City","AFTERNOON",4079
+25,"Wednesday","Hitec City","MORNING",4446
+27,"Tuesday","Jubilee Hills","AFTERNOON",3693
+29,"Monday","Kondapur","AFTERNOON",4422
+43,"Saturday","Hitec City","AFTERNOON",3834
+37,"Saturday","Jubilee Hills","MORNING",3718
+42,"Wednesday","KPHB","MORNING",3523
+34,"Sunday","Jubilee Hills","MORNING",3911
+28,"Tuesday","Kondapur","AFTERNOON",4395
+42,"Tuesday","Jubilee Hills","AFTERNOON",3662
+23,"Tuesday","Kondapur","AFTERNOON",3778
+38,"Wednesday","KPHB","MORNING",3811
+44,"Saturday","Kondapur","AFTERNOON",3684
+34,"Sunday","Kondapur","AFTERNOON",3805
+32,"Sunday","Ameerpet","AFTERNOON",4005
+28,"Saturday","Jubilee Hills","MORNING",4171
+32,"Monday","Kondapur","MORNING",3515
+40,"Wednesday","Ameerpet","AFTERNOON",3536
+29,"Sunday","Ameerpet","AFTERNOON",4260
+26,"Sunday","Kondapur","AFTERNOON",4189
+43,"Thursday","Kondapur","AFTERNOON",3544
+37,"Monday","Kondapur","AFTERNOON",3593
+41,"Sunday","Kondapur","MORNING",4218
+24,"Monday","KPHB","AFTERNOON",4424
+23,"Saturday","Jubilee Hills","AFTERNOON",4088
+24,"Thursday","Ameerpet","MORNING",3651
+30,"Wednesday","Hitec City","MORNING",3850
+24,"Friday","Hitec City","EVENING",5391
+31,"Wednesday","Jubilee Hills","EVENING",5911
+37,"Friday","Jubilee Hills","EVENING",4977
+37,"Tuesday","Jubilee Hills","EVENING",5087
+34,"Wednesday","Hitec City","EVENING",5474
+45,"Wednesday","KPHB","NIGHT",5966
+31,"Saturday","Ameerpet","EVENING",5983
+30,"Saturday","Kondapur","NIGHT",5727
+27,"Monday","Kondapur","EVENING",5641
+35,"Sunday","Kondapur","EVENING",5766
+25,"Wednesday","Kondapur","EVENING",5512
+40,"Wednesday","Hitec City","EVENING",5831
+41,"Tuesday","KPHB","EVENING",5312
+25,"Tuesday","Jubilee Hills","NIGHT",5555
+42,"Monday","KPHB","EVENING",5474
+41,"Thursday","Jubilee Hills","NIGHT",5122
+39,"Tuesday","Jubilee Hills","NIGHT",5267
+39,"Sunday","Kondapur","NIGHT",5140
+33,"Sunday","Hitec City","EVENING",5738
+26,"Tuesday","Kondapur","EVENING",5634
+32,"Sunday","Kondapur","NIGHT",5792
+27,"Thursday","Kondapur","EVENING",5358
+37,"Monday","Kondapur","NIGHT",5623
+30,"Sunday","Jubilee Hills","NIGHT",5437
+45,"Thursday","KPHB","NIGHT",4979
+33,"Monday","Kondapur","NIGHT",5461
+35,"Tuesday","Hitec City","NIGHT",5351
+29,"Thursday","KPHB","EVENING",4908
+33,"Monday","KPHB","EVENING",5175
+25,"Monday","Kondapur","NIGHT",5947
+37,"Saturday","Ameerpet","EVENING",5415
+45,"Friday","Ameerpet","NIGHT",5203
+42,"Tuesday","Jubilee Hills","NIGHT",5563
+34,"Monday","Jubilee Hills","NIGHT",5235
+33,"Friday","Jubilee Hills","EVENING",5426
+38,"Saturday","Hitec City","NIGHT",5898
+23,"Wednesday","KPHB","EVENING",4901
+38,"Sunday","KPHB","NIGHT",5014
+28,"Monday","KPHB","NIGHT",5716
+43,"Sunday","KPHB","EVENING",5193
+36,"Monday","Jubilee Hills","EVENING",5026
+36,"Wednesday","Kondapur","EVENING",4913
+40,"Sunday","KPHB","EVENING",5074
+24,"Monday","Kondapur","EVENING",4925
+40,"Tuesday","Hitec City","EVENING",5049
+43,"Thursday","KPHB","NIGHT",5706
+23,"Tuesday","Jubilee Hills","EVENING",5290
+23,"Thursday","Ameerpet","NIGHT",4944
+41,"Thursday","Jubilee Hills","NIGHT",5416
+45,"Saturday","KPHB","NIGHT",5047
+34,"Thursday","Ameerpet","EVENING",5543
+37,"Wednesday","Hitec City","EVENING",5742
+31,"Saturday","Jubilee Hills","NIGHT",4981
+35,"Thursday","Jubilee Hills","EVENING",5315
+40,"Thursday","Jubilee Hills","EVENING",5040
+29,"Saturday","Kondapur","EVENING",5738
+38,"Saturday","Jubilee Hills","EVENING",5991
+30,"Sunday","Hitec City","EVENING",5059
+44,"Saturday","Kondapur","NIGHT",5048
+45,"Tuesday","Jubilee Hills","NIGHT",5860
+31,"Saturday","Hitec City","NIGHT",5005
+38,"Saturday","Kondapur","NIGHT",4958
+36,"Friday","KPHB","EVENING",5721
+28,"Friday","Ameerpet","NIGHT",5071
+45,"Thursday","Kondapur","EVENING",5037
+34,"Tuesday","KPHB","EVENING",4984
+23,"Friday","Hitec City","EVENING",5537
+29,"Sunday","KPHB","EVENING",5049
+27,"Saturday","Kondapur","EVENING",5564
+34,"Friday","Hitec City","NIGHT",5010
+41,"Monday","Jubilee Hills","EVENING",4913
+23,"Thursday","Ameerpet","NIGHT",5390
+26,"Friday","Jubilee Hills","EVENING",5812
+37,"Tuesday","KPHB","NIGHT",5504
+33,"Wednesday","Ameerpet","NIGHT",5844
+41,"Monday","Ameerpet","NIGHT",5109
+44,"Friday","KPHB","NIGHT",5851
+38,"Monday","Jubilee Hills","NIGHT",5654
+33,"Thursday","Hitec City","EVENING",5139
+40,"Sunday","Kondapur","NIGHT",5856
+44,"Monday","Ameerpet","EVENING",5771
+36,"Thursday","Jubilee Hills","EVENING",5319
+30,"Tuesday","Hitec City","NIGHT",4976
+29,"Wednesday","Jubilee Hills","NIGHT",5692
+39,"Sunday","Jubilee Hills","NIGHT",5731
+36,"Friday","Ameerpet","EVENING",5471
+37,"Thursday","Kondapur","NIGHT",5156
+32,"Monday","Ameerpet","EVENING",5307
+28,"Monday","Hitec City","EVENING",4940
+42,"Monday","Jubilee Hills","NIGHT",5989
+31,"Tuesday","Ameerpet","NIGHT",5015
+30,"Thursday","KPHB","EVENING",5786
+24,"Saturday","Ameerpet","EVENING",5997
+34,"Sunday","Ameerpet","EVENING",5269
+44,"Sunday","Kondapur","EVENING",5885
+35,"Friday","Jubilee Hills","NIGHT",5129
+33,"Wednesday","Ameerpet","EVENING",5142
+43,"Wednesday","Jubilee Hills","NIGHT",5552
+44,"Tuesday","Jubilee Hills","NIGHT",5677
+25,"Thursday","Hitec City","NIGHT",5396
+34,"Monday","Jubilee Hills","EVENING",5089
+35,"Monday","Ameerpet","EVENING",5073
+43,"Thursday","Hitec City","NIGHT",5730
+37,"Saturday","Jubilee Hills","NIGHT",5533
+41,"Wednesday","KPHB","NIGHT",5554
+30,"Tuesday","Jubilee Hills","EVENING",5363
+33,"Sunday","Kondapur","NIGHT",5270
+41,"Thursday","Hitec City","EVENING",5342
+25,"Friday","KPHB","NIGHT",5297
+44,"Wednesday","Ameerpet","EVENING",4927
+42,"Wednesday","Ameerpet","NIGHT",5331
+32,"Thursday","Kondapur","NIGHT",5421
+32,"Thursday","KPHB","EVENING",5998
+42,"Saturday","Ameerpet","NIGHT",5008
+35,"Sunday","Ameerpet","NIGHT",5708
+23,"Saturday","Hitec City","EVENING",5073
+34,"Friday","Hitec City","EVENING",5644
+33,"Friday","KPHB","NIGHT",4943
+41,"Friday","Hitec City","NIGHT",5157
+25,"Friday","Ameerpet","NIGHT",5032
+32,"Saturday","Ameerpet","EVENING",4962
+37,"Saturday","KPHB","EVENING",5427
+35,"Friday","KPHB","NIGHT",5607
+30,"Saturday","KPHB","NIGHT",5326
+38,"Thursday","Jubilee Hills","NIGHT",5531
+38,"Friday","Jubilee Hills","NIGHT",5748
+37,"Monday","KPHB","EVENING",5058
+34,"Wednesday","Ameerpet","NIGHT",5383
+27,"Sunday","Kondapur","NIGHT",5961
+23,"Friday","KPHB","EVENING",5957
+23,"Monday","KPHB","NIGHT",5601
+44,"Tuesday","Ameerpet","EVENING",5394
+35,"Friday","Hitec City","NIGHT",5156
+41,"Tuesday","Kondapur","NIGHT",5814
+44,"Sunday","Kondapur","NIGHT",5202
+26,"Friday","Hitec City","NIGHT",5081
+35,"Monday","Ameerpet","NIGHT",5575
+42,"Friday","KPHB","NIGHT",5564
+30,"Wednesday","KPHB","EVENING",5211
+32,"Monday","Jubilee Hills","EVENING",5863
+28,"Tuesday","KPHB","NIGHT",5031
+35,"Wednesday","Ameerpet","EVENING",5484
+44,"Thursday","Kondapur","NIGHT",5166
+28,"Thursday","KPHB","EVENING",5049
+28,"Wednesday","Jubilee Hills","EVENING",5286
+32,"Thursday","KPHB","NIGHT",5660
+25,"Tuesday","Hitec City","EVENING",5846
+32,"Sunday","Kondapur","NIGHT",5880
+43,"Sunday","KPHB","EVENING",4952
+44,"Monday","Kondapur","NIGHT",5383
+33,"Monday","Kondapur","NIGHT",5279
+29,"Thursday","Jubilee Hills","EVENING",5936
+41,"Monday","Hitec City","EVENING",5289
+36,"Monday","Jubilee Hills","NIGHT",5627
+35,"Friday","Kondapur","EVENING",5271
+38,"Sunday","Kondapur","EVENING",5706
+37,"Saturday","KPHB","NIGHT",5223
+37,"Monday","Kondapur","NIGHT",5892
+24,"Monday","Hitec City","EVENING",5350
+28,"Saturday","Hitec City","EVENING",5205
+37,"Sunday","Jubilee Hills","EVENING",5861
+38,"Monday","Ameerpet","NIGHT",5342
+45,"Saturday","Hitec City","EVENING",5925
+34,"Friday","Ameerpet","EVENING",5466
+37,"Wednesday","KPHB","NIGHT",5936
+42,"Saturday","Hitec City","EVENING",5921
+29,"Thursday","Ameerpet","NIGHT",5959
+45,"Thursday","Kondapur","EVENING",5935
+40,"Friday","Kondapur","EVENING",5928
+41,"Tuesday","KPHB","EVENING",5980
+32,"Monday","Ameerpet","NIGHT",5489
+36,"Thursday","Jubilee Hills","EVENING",5407
+26,"Sunday","Jubilee Hills","NIGHT",5406
+42,"Wednesday","Ameerpet","EVENING",5159
+28,"Friday","KPHB","NIGHT",5296
+29,"Thursday","KPHB","EVENING",5552
+26,"Friday","Hitec City","NIGHT",5048
+25,"Monday","Ameerpet","NIGHT",5367
+40,"Friday","KPHB","NIGHT",5079
+39,"Sunday","Ameerpet","NIGHT",5909
+40,"Wednesday","Kondapur","NIGHT",5153
+31,"Thursday","Jubilee Hills","NIGHT",5099
+37,"Sunday","KPHB","NIGHT",5538
+42,"Sunday","KPHB","NIGHT",5658
+31,"Wednesday","Jubilee Hills","NIGHT",5925
+39,"Monday","Jubilee Hills","EVENING",5784
+36,"Saturday","Hitec City","EVENING",5992
+33,"Monday","Kondapur","EVENING",5225
+43,"Monday","Ameerpet","EVENING",5451
+37,"Monday","Hitec City","NIGHT",5398
+24,"Friday","Hitec City","EVENING",5876
+25,"Friday","KPHB","NIGHT",5019
+30,"Tuesday","KPHB","NIGHT",5656
+36,"Friday","Hitec City","NIGHT",5585
+31,"Tuesday","Jubilee Hills","NIGHT",5360
+29,"Sunday","Hitec City","NIGHT",5127
+36,"Friday","Hitec City","EVENING",5829
+43,"Tuesday","Kondapur","NIGHT",5114
+38,"Thursday","Ameerpet","NIGHT",5101
+42,"Sunday","KPHB","EVENING",5560
+45,"Tuesday","KPHB","NIGHT",5269
+28,"Monday","Hitec City","EVENING",5380
+37,"Thursday","KPHB","NIGHT",5877
+44,"Wednesday","Kondapur","NIGHT",5570
+30,"Saturday","KPHB","EVENING",5109
+33,"Thursday","Hitec City","NIGHT",5678
+30,"Wednesday","KPHB","NIGHT",5456
+27,"Thursday","Kondapur","NIGHT",5010
+41,"Thursday","Hitec City","NIGHT",5769
+30,"Thursday","Ameerpet","EVENING",5578
+43,"Saturday","Kondapur","EVENING",5438
+23,"Saturday","Kondapur","NIGHT",5992
+23,"Monday","Ameerpet","NIGHT",5808
+32,"Friday","Kondapur","NIGHT",4928
+26,"Wednesday","KPHB","NIGHT",5575
+41,"Wednesday","Ameerpet","EVENING",5156
+31,"Friday","Kondapur","EVENING",5932
+41,"Tuesday","Hitec City","EVENING",5885
+32,"Friday","KPHB","NIGHT",5111
+24,"Saturday","Ameerpet","NIGHT",5001
+25,"Saturday","Jubilee Hills","NIGHT",5707
+24,"Wednesday","Ameerpet","NIGHT",5371
+36,"Monday","Ameerpet","NIGHT",5837
+41,"Tuesday","Ameerpet","NIGHT",5606
+42,"Sunday","Hitec City","NIGHT",5825
+29,"Sunday","Hitec City","EVENING",5435
+27,"Saturday","Ameerpet","EVENING",5682
+28,"Saturday","Ameerpet","NIGHT",5911
+44,"Saturday","KPHB","EVENING",4920
+41,"Wednesday","Ameerpet","NIGHT",5055
+39,"Monday","Jubilee Hills","NIGHT",5697
+27,"Saturday","Ameerpet","NIGHT",5837
+43,"Tuesday","Kondapur","NIGHT",5292
+33,"Friday","Jubilee Hills","NIGHT",5280
+29,"Wednesday","Hitec City","EVENING",4979
+31,"Saturday","Kondapur","EVENING",5388
+39,"Wednesday","Ameerpet","NIGHT",5283
+32,"Wednesday","Jubilee Hills","EVENING",5634
+27,"Monday","KPHB","EVENING",5793
+41,"Thursday","Hitec City","EVENING",5248
+39,"Sunday","Kondapur","EVENING",5673
+34,"Tuesday","KPHB","EVENING",5871
+26,"Sunday","Kondapur","NIGHT",5905
+43,"Friday","KPHB","EVENING",4939
+34,"Friday","Ameerpet","EVENING",5187
+27,"Tuesday","Ameerpet","NIGHT",4923
+34,"Monday","Jubilee Hills","EVENING",5296
+38,"Tuesday","KPHB","NIGHT",5594
+34,"Wednesday","Ameerpet","EVENING",4972
+34,"Tuesday","Hitec City","NIGHT",5613
+39,"Thursday","Jubilee Hills","NIGHT",5396
+40,"Sunday","Kondapur","NIGHT",5508
+40,"Wednesday","Jubilee Hills","EVENING",5678
+26,"Friday","Hitec City","NIGHT",5437
+26,"Friday","Kondapur","EVENING",5313
+26,"Thursday","Kondapur","EVENING",5968
+34,"Wednesday","Kondapur","EVENING",5221
+23,"Sunday","Kondapur","EVENING",5953
+41,"Sunday","Ameerpet","NIGHT",5195
+24,"Wednesday","Hitec City","EVENING",5436
+31,"Friday","Hitec City","EVENING",5866
+28,"Saturday","Kondapur","EVENING",5295
+29,"Thursday","Kondapur","EVENING",5840
+44,"Friday","Hitec City","EVENING",5820
+43,"Sunday","KPHB","NIGHT",5323
+33,"Tuesday","KPHB","EVENING",5020
+28,"Wednesday","Kondapur","EVENING",5785
+24,"Monday","Hitec City","EVENING",5981
+34,"Sunday","Hitec City","NIGHT",5325
+29,"Tuesday","Hitec City","EVENING",5741
+39,"Wednesday","Kondapur","EVENING",5904
+24,"Tuesday","KPHB","NIGHT",5587
+37,"Saturday","Hitec City","NIGHT",5403
+28,"Tuesday","Kondapur","NIGHT",5004
+25,"Friday","Ameerpet","EVENING",5752
+37,"Saturday","Jubilee Hills","NIGHT",5030
+41,"Friday","Kondapur","NIGHT",5878
+24,"Monday","Hitec City","NIGHT",5807
+28,"Friday","Ameerpet","EVENING",5136
+24,"Wednesday","Ameerpet","NIGHT",5315
+23,"Saturday","Hitec City","NIGHT",5230
+43,"Friday","Ameerpet","NIGHT",5769
+40,"Friday","Hitec City","NIGHT",4992
+23,"Saturday","Ameerpet","NIGHT",5219
+23,"Monday","KPHB","EVENING",5174
+23,"Monday","Jubilee Hills","NIGHT",5723
+41,"Saturday","Ameerpet","NIGHT",5205
+32,"Tuesday","Kondapur","EVENING",5613
+28,"Friday","Kondapur","NIGHT",5884
+31,"Tuesday","Ameerpet","EVENING",5885
+32,"Sunday","Ameerpet","EVENING",5830
+27,"Wednesday","Ameerpet","NIGHT",5024
+32,"Wednesday","Kondapur","EVENING",5250
+25,"Thursday","Jubilee Hills","EVENING",5332
+23,"Wednesday","Kondapur","NIGHT",5648
+29,"Tuesday","Jubilee Hills","EVENING",5370
+33,"Sunday","Hitec City","EVENING",5228
+32,"Sunday","KPHB","NIGHT",4958
+36,"Tuesday","Hitec City","NIGHT",5945
+36,"Monday","Hitec City","NIGHT",5596
+36,"Saturday","Hitec City","NIGHT",4923
+35,"Wednesday","Hitec City","EVENING",4997
+45,"Monday","Ameerpet","EVENING",5176
+26,"Monday","Ameerpet","NIGHT",5725
+30,"Sunday","Ameerpet","NIGHT",5300
+38,"Friday","Jubilee Hills","EVENING",5356
+26,"Sunday","Kondapur","NIGHT",5510
+24,"Monday","Kondapur","EVENING",4917
+37,"Sunday","KPHB","EVENING",5093
+34,"Saturday","Ameerpet","EVENING",5164
+28,"Wednesday","Jubilee Hills","NIGHT",5141
+36,"Thursday","Kondapur","NIGHT",5273
+29,"Friday","Jubilee Hills","EVENING",5402
+29,"Friday","Kondapur","NIGHT",5069
+38,"Tuesday","Kondapur","NIGHT",5890
+36,"Saturday","KPHB","EVENING",5417
+23,"Monday","Kondapur","NIGHT",5749
+27,"Tuesday","Kondapur","NIGHT",5028
+26,"Friday","Ameerpet","NIGHT",5510
+31,"Sunday","Jubilee Hills","EVENING",5637
+23,"Thursday","Hitec City","EVENING",5213
+39,"Wednesday","Kondapur","EVENING",5110
+40,"Sunday","Kondapur","EVENING",5081
+45,"Thursday","Hitec City","NIGHT",5848
+28,"Thursday","Ameerpet","EVENING",5613
+37,"Thursday","Ameerpet","EVENING",5397
+30,"Thursday","Kondapur","NIGHT",5166
+27,"Tuesday","Hitec City","EVENING",5931
+27,"Thursday","Ameerpet","EVENING",5107
+30,"Sunday","Kondapur","NIGHT",4963
+33,"Wednesday","Jubilee Hills","NIGHT",5475
+43,"Monday","Jubilee Hills","NIGHT",5915
+38,"Wednesday","KPHB","EVENING",5636
+37,"Tuesday","KPHB","NIGHT",4911
+42,"Tuesday","Kondapur","NIGHT",5470
+29,"Thursday","Kondapur","EVENING",5457
+40,"Sunday","Jubilee Hills","NIGHT",5564
+31,"Thursday","Ameerpet","EVENING",5286
+32,"Tuesday","KPHB","EVENING",5437
+36,"Saturday","KPHB","EVENING",5688
+33,"Sunday","Kondapur","EVENING",5600
+40,"Sunday","Kondapur","EVENING",5556
+33,"Tuesday","Hitec City","EVENING",5822
+37,"Sunday","Jubilee Hills","EVENING",5655
+39,"Friday","Hitec City","EVENING",5008
+26,"Thursday","KPHB","NIGHT",5895
+44,"Monday","Kondapur","NIGHT",5418
+39,"Thursday","Ameerpet","NIGHT",5864
+44,"Tuesday","Kondapur","NIGHT",5660
+32,"Thursday","Kondapur","EVENING",5368
+32,"Friday","Ameerpet","NIGHT",5228
+27,"Saturday","Ameerpet","EVENING",5799
+29,"Saturday","Ameerpet","NIGHT",5144
+41,"Wednesday","Hitec City","EVENING",5983
+41,"Thursday","Hitec City","NIGHT",5565
+44,"Saturday","Jubilee Hills","EVENING",5631
+43,"Wednesday","Hitec City","EVENING",5714
+31,"Sunday","Kondapur","NIGHT",4944
+37,"Tuesday","Ameerpet","NIGHT",5504
+33,"Monday","Ameerpet","EVENING",5142
+36,"Sunday","Jubilee Hills","EVENING",5738
+39,"Wednesday","Jubilee Hills","NIGHT",5549
+38,"Sunday","Kondapur","EVENING",5423
+24,"Wednesday","KPHB","NIGHT",5493
+43,"Friday","KPHB","EVENING",5825
+27,"Saturday","Ameerpet","NIGHT",5491
+26,"Sunday","Kondapur","NIGHT",5249
+31,"Thursday","Ameerpet","NIGHT",5480
+39,"Sunday","Kondapur","NIGHT",5597
+33,"Sunday","Hitec City","NIGHT",5328
+25,"Tuesday","Ameerpet","NIGHT",5033
+38,"Saturday","Hitec City","NIGHT",5051
+40,"Wednesday","Kondapur","NIGHT",5462
+33,"Tuesday","Kondapur","EVENING",5468
+39,"Saturday","KPHB","EVENING",5501
+33,"Wednesday","Hitec City","NIGHT",5230
+37,"Sunday","KPHB","EVENING",5631
+41,"Tuesday","KPHB","NIGHT",4902
+42,"Tuesday","Ameerpet","NIGHT",5602
+45,"Thursday","Jubilee Hills","NIGHT",5684
+35,"Sunday","Kondapur","NIGHT",5000
+24,"Monday","Jubilee Hills","EVENING",5315
+30,"Tuesday","Ameerpet","NIGHT",5689
+41,"Thursday","Jubilee Hills","EVENING",5708
+30,"Monday","Kondapur","NIGHT",5970
+27,"Saturday","Ameerpet","EVENING",5850
+33,"Saturday","Jubilee Hills","NIGHT",5510
+28,"Sunday","Hitec City","NIGHT",5351
+30,"Friday","Kondapur","EVENING",5121
+23,"Friday","Ameerpet","NIGHT",5478
+33,"Tuesday","Ameerpet","NIGHT",5381
+23,"Wednesday","Ameerpet","NIGHT",5465
+30,"Saturday","Hitec City","NIGHT",5375
+38,"Saturday","Kondapur","NIGHT",5668
+29,"Tuesday","Ameerpet","EVENING",5554
+25,"Thursday","Jubilee Hills","EVENING",5005
+27,"Tuesday","Kondapur","NIGHT",5626
+26,"Sunday","Kondapur","NIGHT",5400
+42,"Monday","Kondapur","EVENING",5868
+43,"Friday","Ameerpet","EVENING",5703
+30,"Friday","Kondapur","EVENING",5380
+37,"Friday","Jubilee Hills","EVENING",5957
+24,"Friday","Hitec City","EVENING",5844
+45,"Saturday","KPHB","EVENING",5808
+39,"Monday","Jubilee Hills","EVENING",4945
+35,"Sunday","Ameerpet","EVENING",5736
+30,"Monday","Ameerpet","EVENING",5439
+24,"Sunday","Kondapur","NIGHT",5083
+25,"Friday","Hitec City","EVENING",5666
+31,"Tuesday","Jubilee Hills","EVENING",5851
+35,"Monday","Kondapur","EVENING",5824
+41,"Tuesday","Hitec City","EVENING",5872
+45,"Monday","Hitec City","NIGHT",5737
+30,"Tuesday","Kondapur","NIGHT",5617
+41,"Sunday","Kondapur","EVENING",5212
+37,"Sunday","Hitec City","EVENING",5053
+28,"Monday","KPHB","EVENING",5936
+35,"Monday","Jubilee Hills","EVENING",4916
+34,"Monday","KPHB","NIGHT",4922
+42,"Friday","KPHB","NIGHT",5837
+26,"Tuesday","KPHB","EVENING",5435
+35,"Wednesday","Ameerpet","NIGHT",5275
+43,"Sunday","Jubilee Hills","EVENING",5948
+44,"Friday","Kondapur","NIGHT",5830
+43,"Monday","Ameerpet","NIGHT",5951
+45,"Friday","Jubilee Hills","EVENING",5511
+27,"Tuesday","Jubilee Hills","NIGHT",5447
+43,"Tuesday","KPHB","NIGHT",5614
+43,"Saturday","Kondapur","EVENING",5197
+35,"Tuesday","Jubilee Hills","EVENING",5529
+40,"Friday","Ameerpet","EVENING",5380
+33,"Wednesday","Kondapur","EVENING",5039
+31,"Friday","KPHB","NIGHT",4922
+36,"Monday","Hitec City","EVENING",5108
+43,"Tuesday","Kondapur","NIGHT",5414
+40,"Friday","KPHB","EVENING",4911
+24,"Friday","Hitec City","NIGHT",5022
+40,"Wednesday","KPHB","EVENING",5907
+38,"Thursday","KPHB","EVENING",5798
+45,"Saturday","KPHB","NIGHT",5096
+45,"Wednesday","Ameerpet","EVENING",5269
+42,"Saturday","Ameerpet","EVENING",5857
+39,"Tuesday","Hitec City","NIGHT",5080
+30,"Tuesday","Kondapur","NIGHT",5132
+43,"Tuesday","Ameerpet","EVENING",5630
+39,"Sunday","KPHB","NIGHT",5341
+32,"Thursday","Kondapur","NIGHT",5962
+45,"Friday","KPHB","EVENING",5593
+37,"Sunday","KPHB","EVENING",5020
+41,"Friday","KPHB","EVENING",4940
+39,"Friday","Kondapur","EVENING",5648
+35,"Tuesday","Jubilee Hills","EVENING",4999
+43,"Tuesday","Kondapur","NIGHT",5566
+44,"Thursday","Ameerpet","EVENING",4979
+40,"Thursday","Jubilee Hills","EVENING",5642
+41,"Wednesday","Kondapur","NIGHT",5319
+33,"Tuesday","Jubilee Hills","NIGHT",5939
+26,"Thursday","Ameerpet","NIGHT",5329
+44,"Sunday","Jubilee Hills","NIGHT",4949
+38,"Thursday","Kondapur","NIGHT",5098
+38,"Saturday","Kondapur","NIGHT",5536
+34,"Friday","Jubilee Hills","EVENING",5375
+39,"Thursday","Kondapur","EVENING",5023
+30,"Wednesday","Jubilee Hills","EVENING",5775
+34,"Tuesday","Jubilee Hills","EVENING",5681
+36,"Tuesday","Kondapur","EVENING",5680
+42,"Saturday","Ameerpet","EVENING",5292
+36,"Friday","Kondapur","NIGHT",5122
+38,"Saturday","Kondapur","EVENING",5944
+34,"Friday","Ameerpet","EVENING",5227
+27,"Wednesday","Kondapur","NIGHT",5687
+44,"Saturday","Ameerpet","NIGHT",5699
+34,"Thursday","Ameerpet","NIGHT",5371
+35,"Thursday","Kondapur","NIGHT",5285
+43,"Friday","KPHB","EVENING",5275
+42,"Monday","Ameerpet","NIGHT",5944
+28,"Saturday","Jubilee Hills","EVENING",5333
+25,"Sunday","KPHB","NIGHT",5644
+42,"Friday","Hitec City","EVENING",5550
+39,"Sunday","Jubilee Hills","NIGHT",5376
+26,"Friday","KPHB","NIGHT",5164
+35,"Saturday","Hitec City","NIGHT",5374
+35,"Thursday","Kondapur","NIGHT",5136
+33,"Saturday","KPHB","EVENING",4965
+35,"Monday","Hitec City","NIGHT",4961
+30,"Saturday","Ameerpet","NIGHT",5778
+34,"Sunday","KPHB","NIGHT",5200
+33,"Monday","Ameerpet","EVENING",5061
+35,"Saturday","KPHB","EVENING",5826
+42,"Wednesday","Ameerpet","EVENING",5876
+38,"Thursday","Hitec City","EVENING",5260
+37,"Friday","Kondapur","EVENING",5194
+35,"Sunday","KPHB","EVENING",5192
+23,"Sunday","Kondapur","EVENING",5599
+36,"Wednesday","KPHB","NIGHT",5283
+28,"Saturday","Jubilee Hills","NIGHT",5015
+23,"Friday","Kondapur","EVENING",5413
+26,"Thursday","Kondapur","EVENING",5942
+26,"Monday","Ameerpet","EVENING",5133
+35,"Sunday","KPHB","NIGHT",5248
