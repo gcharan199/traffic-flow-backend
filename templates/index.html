@@ -1,18 +1,50 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <title>Traffic Volume Prediction API</title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+  <meta charset="UTF-8">
+  <title>Traffic Volume Prediction API</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+  <style>
+    .bg-traffic {
+      background-image: url('https://traffic-flow-backend-production.up.railway.app/static/traffic-bg.png');
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+    }
+
+    .content-wrapper {
+      background-color: rgba(0, 0, 0, 0.6);
+      border-radius: 1rem;
+      padding: 2rem;
+      max-width: 700px;
+      width: 90%;
+    }
+  </style>
 </head>
-<body class="bg-light">
-    <div class="container text-center mt-5">
-        <h1 class="display-4 text-primary">🚦 Traffic Volume Prediction API</h1>
-        <p class="lead">Welcome! Use <code>/predict</code> endpoint to get traffic predictions.</p>
-        <hr>
-        <div class="alert alert-info" role="alert">
-            POST a JSON body with temperature, day_of_week, location, and time_of_day to <code>/predict</code>.
-        </div>
+<body class="bg-traffic text-white d-flex align-items-center justify-content-center min-vh-100">
+
+  <div class="container text-center content-wrapper">
+    <h1 class="display-5 text-warning">Traffic Volume Prediction 🚦</h1>
+    <p class="lead fw-bold">Welcome to the official Traffic Flow Prediction app hosted by Charan Goriparthi</p>
+    <hr class="border-light">
+
+    <div class="alert alert-success" role="alert">
+      ✅ Now available on Android
     </div>
+
+    <!-- APK Download Button -->
+    <a href="https://github.com/gcharan199/traffic-flow-backend/releases/download/1.0/Traffic_Volume.apk"
+       class="btn btn-success btn-lg mt-2" download>
+      📲 Download Android APK
+    </a>
+
+    <div class="my-4"></div>
+
+    <div class="alert alert-secondary" role="alert">
+      📱 iPhone version coming soon...
+    </div>
+  </div>
+
 </body>
 </html>
